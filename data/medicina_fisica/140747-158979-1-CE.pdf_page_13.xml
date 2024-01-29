@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>140747-158979-1-CE.pdf_page_13.png</fileName>
+      <fileIdentifier>pdf//140747-158979-1-CE.pdf</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10616" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT10596" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10595" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10594" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10591" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10590" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10593" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10592" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT4166" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4151" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4150" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2000"
+          HEIGHT="2985"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2000"
+                  HEIGHT="2985">
+        
+        <TextBlock HPOS="215"
+                   VPOS="274"
+                   WIDTH="421"
+                   HEIGHT="40"
+                   ID="eSc_textblock_48c9effe"
+                   TAGREFS="BT10593">
+          <Shape><Polygon POINTS="215 274 215 314 636 314 636 274 577 274"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1858e2d0"
+                    TAGREFS="LT4151"
+                    BASELINE="227 296 633 290" 
+                    HPOS="225"
+                    VPOS="258"
+                    WIDTH="408"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="625 258 225 263 227 296 227 321 442 311 631 316 633 290 628 262 625 258"/></Shape>
+	    <String CONTENT="MEDICINA FÍSICA"
+                    HPOS="225"
+                    VPOS="258"
+                    WIDTH="408"
+                    HEIGHT="63"
+                    WC="0.983278010040522"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1627"
+                   VPOS="257"
+                   WIDTH="57"
+                   HEIGHT="38"
+                   ID="eSc_textblock_8effd4cd"
+                   TAGREFS="BT10592">
+          <Shape><Polygon POINTS="1627 257 1627 266 1627 295 1684 295 1684 257"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d8293fe7"
+                    TAGREFS="LT4150"
+                    BASELINE="1630 287 1678 287" 
+                    HPOS="1629"
+                    VPOS="238"
+                    WIDTH="47"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1629 303 1671 323 1676 286 1676 238 1629 238 1629 286"/></Shape>
+	    <String CONTENT="35"
+                    HPOS="1629"
+                    VPOS="238"
+                    WIDTH="47"
+                    HEIGHT="85"
+                    WC="0.999177157878876"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="173"
+                   VPOS="350"
+                   WIDTH="1524"
+                   HEIGHT="2038"
+                   ID="eSc_textblock_27a399d5"
+                   TAGREFS="BT10591">
+          <Shape><Polygon POINTS="173 350 173 2388 1697 2388 1697 350"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b1b7e7b8"
+                    TAGREFS="LT4151"
+                    BASELINE="976 1184 1514 1179" 
+                    HPOS="975"
+                    VPOS="1154"
+                    WIDTH="539"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1505 1162 1489 1159 1472 1157 1456 1154 1439 1154 1422 1154 1406 1154 1389 1154 1373 1154 1356 1154 1339 1154 1323 1155 1306 1155 1290 1155 1273 1155 1257 1155 1240 1155 1223 1155 1207 1157 1190 1157 1174 1157 1157 1157 1144 1157 1140 1157 1124 1157 1107 1157 1091 1159 1074 1159 1058 1159 1041 1159 1024 1159 1008 1159 991 1159 975 1165 976 1184 976 1207 1512 1197 1514 1179 1510 1162 1505 1162"/></Shape>
+	    <String CONTENT="Apèndix d’implantació normal, molt in¬"
+                    HPOS="975"
+                    VPOS="1154"
+                    WIDTH="539"
+                    HEIGHT="53"
+                    WC="0.985339525341988"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd351925"
+                    TAGREFS="LT4151"
+                    BASELINE="973 1220 1514 1215" 
+                    HPOS="971"
+                    VPOS="1192"
+                    WIDTH="543"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="971 1202 973 1220 973 1245 1512 1233 1514 1215 1509 1192 976 1194 971 1202"/></Shape>
+	    <String CONTENT="completament omplert, de direcció descen¬"
+                    HPOS="971"
+                    VPOS="1192"
+                    WIDTH="543"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9cca681b"
+                    TAGREFS="LT4151"
+                    BASELINE="971 1257 1519 1252" 
+                    HPOS="970"
+                    VPOS="1228"
+                    WIDTH="549"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="971 1257 971 1281 1150 1288 1152 1288 1222 1283 1296 1276 1308 1283 1316 1286 1318 1286 1320 1286 1381 1283 1499 1275 1512 1283 1519 1252 1514 1228 970 1232 971 1257"/></Shape>
+	    <String CONTENT="dent i punta arrodonida, i adherida al fons"
+                    HPOS="970"
+                    VPOS="1228"
+                    WIDTH="549"
+                    HEIGHT="60"
+                    WC="0.987197494784067"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d88211a"
+                    TAGREFS="LT4151"
+                    BASELINE="1194 1293 1288 1288" 
+                    HPOS="1190"
+                    VPOS="1265"
+                    WIDTH="98"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1194 1293 1195 1328 1288 1318 1288 1288 1283 1265 1190 1268 1194 1293"/></Shape>
+	    <String CONTENT="pèlvic."
+                    HPOS="1190"
+                    VPOS="1265"
+                    WIDTH="98"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39b0cc16"
+                    TAGREFS="LT4151"
+                    BASELINE="233 2305 674 2298" 
+                    HPOS="232"
+                    VPOS="2270"
+                    WIDTH="442"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="663 2285 646 2275 630 2275 613 2275 597 2275 580 2275 563 2275 547 2275 530 2275 514 2275 510 2275 505 2275 497 2275 480 2275 464 2276 447 2276 431 2276 414 2276 407 2276 406 2276 398 2276 381 2278 364 2278 348 2278 331 2278 315 2280 298 2280 281 2280 265 2280 248 2280 232 2291 233 2305 233 2336 325 2336 326 2336 328 2336 328 2334 330 2334 338 2323 383 2321 414 2331 416 2331 417 2331 419 2331 454 2320 530 2320 552 2331 553 2333 555 2333 557 2333 558 2333 560 2333 565 2331 585 2321 673 2328 674 2298 671 2271 661 2270 663 2285"/></Shape>
+	    <String CONTENT="Apèndix curt amb vacuoles i adhe¬"
+                    HPOS="232"
+                    VPOS="2270"
+                    WIDTH="442"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26a57da0"
+                    TAGREFS="LT4151"
+                    BASELINE="334 2338 565 2341" 
+                    HPOS="333"
+                    VPOS="2310"
+                    WIDTH="232"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="334 2338 333 2356 358 2369 359 2369 361 2369 411 2361 427 2358 447 2363 474 2371 475 2371 477 2371 479 2371 492 2366 515 2359 560 2371 565 2341 563 2316 334 2310 334 2338"/></Shape>
+	    <String CONTENT="rit al fons pèlvic."
+                    HPOS="333"
+                    VPOS="2310"
+                    WIDTH="232"
+                    HEIGHT="61"
+                    WC="0.977458763122559"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="211"
+                   VPOS="370"
+                   WIDTH="709"
+                   HEIGHT="956"
+                   ID="eSc_textblock_29683f58"
+                   TAGREFS="BT10594">
+          <Shape><Polygon POINTS="211 370 211 1326 920 1326 920 370"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="715"
+                   VPOS="1650"
+                   WIDTH="955"
+                   HEIGHT="707"
+                   ID="eSc_textblock_b695026d"
+                   TAGREFS="BT10594">
+          <Shape><Polygon POINTS="715 1650 715 2357 1670 2357 1670 2120 1670 1650"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
