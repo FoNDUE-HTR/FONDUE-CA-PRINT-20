@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>140747-158979-1-CE.pdf_page_1.png</fileName>
+      <fileIdentifier>pdf//140747-158979-1-CE.pdf</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10616" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT10596" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10595" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10594" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10591" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10590" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10593" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10592" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT4166" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4151" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4150" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2013"
+          HEIGHT="2992"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2013"
+                  HEIGHT="2992">
+        
+        <TextBlock HPOS="206"
+                   VPOS="254"
+                   WIDTH="1480"
+                   HEIGHT="63"
+                   ID="eSc_textblock_894d7637"
+                   TAGREFS="BT10593">
+          <Shape><Polygon POINTS="206 254 206 317 1686 317 1686 254"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7d5d0010"
+                    TAGREFS="LT4151"
+                    BASELINE="219 307 1682 300" 
+                    HPOS="219"
+                    VPOS="255"
+                    WIDTH="1463"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1127 255 1115 255 1098 255 1082 255 1065 255 1048 255 1032 255 1015 255 999 255 982 255 979 255 949 264 945 264 924 264 586 255 585 255 583 255 550 265 546 265 523 265 265 257 264 257 229 265 221 292 219 307 219 349 1682 342 1682 300 1678 270 1668 260"/></Shape>
+	    <String CONTENT="SOCIETAT DE RADIOLOGIA | ELECTROLOGIA DE CATALUNYA"
+                    HPOS="219"
+                    VPOS="255"
+                    WIDTH="1463"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="174"
+                   VPOS="415"
+                   WIDTH="1592"
+                   HEIGHT="2274"
+                   ID="eSc_textblock_85871154"
+                   TAGREFS="BT10591">
+          <Shape><Polygon POINTS="189 425 174 2689 1766 2689 1746 415"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9c9bb4dc"
+                    TAGREFS="LT4151"
+                    BASELINE="605 458 1291 455" 
+                    HPOS="605"
+                    VPOS="417"
+                    WIDTH="686"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1268 417 979 425 959 417 957 417 955 417 902 427 615 427 605 443 605 458 605 485 674 485 678 485 726 501 728 501 729 501 731 501 733 501 757 485 759 485 767 485 801 487 816 500 817 500 819 500 821 500 822 500 871 487 939 501 940 501 942 501 989 490 1047 500 1048 500 1050 500 1092 485 1145 500 1146 500 1148 501 1228 501 1228 500 1230 500 1291 482 1291 455 1289 450 1284 437"/></Shape>
+	    <String CONTENT="Sessió del dio 20 de desembre del 1935"
+                    HPOS="605"
+                    VPOS="417"
+                    WIDTH="686"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2b042e4"
+                    TAGREFS="LT4151"
+                    BASELINE="295 1299 1595 1293" 
+                    HPOS="295"
+                    VPOS="1240"
+                    WIDTH="1300"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1562 1254 1437 1243 1389 1240 1387 1240 1363 1245 1314 1256 1218 1256 1203 1246 1198 1243 1196 1243 1195 1243 1193 1243 1168 1248 1125 1256 1112 1248 1102 1241 1100 1241 1098 1241 1068 1241 1067 1241 1065 1241 1043 1249 1028 1254 1015 1249 1000 1245 999 1245 997 1245 919 1251 892 1253 885 1251 856 1243 854 1243 852 1243 807 1253 784 1258 774 1253 754 1243 753 1243 751 1243 749 1243 719 1251 689 1243 688 1243 686 1243 684 1243 683 1243 668 1254 663 1258 629 1256 505 1245 503 1245 502 1245 500 1245 483 1256 425 1246 423 1246 422 1246 382 1259 378 1261 302 1261 297 1278 295 1299 295 1321 387 1331 388 1331 390 1331 392 1331 403 1323 408 1319 420 1323 443 1328 445 1328 447 1328 478 1323 495 1319 513 1323 556 1331 558 1331 560 1331 583 1323 593 1318 748 1318 824 1323 909 1329 910 1329 950 1323 1002 1316 1258 1323 1259 1323 1299 1314 1311 1324 1313 1326 1314 1326 1316 1326 1318 1328 1356 1328 1356 1326 1368 1324 1422 1314 1464 1324 1469 1326 1471 1326 1472 1326 1595 1324 1595 1293 1589 1245 1584 1243"/></Shape>
+	    <String CONTENT="L&#x27;apendicitis sota el punt de vista rodiològic"
+                    HPOS="295"
+                    VPOS="1240"
+                    WIDTH="1300"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd42d860"
+                    TAGREFS="LT4151"
+                    BASELINE="1058 1404 1682 1401" 
+                    HPOS="1057"
+                    VPOS="1353"
+                    WIDTH="625"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1427 1363 1409 1358 1386 1353 1384 1353 1383 1353 1271 1361 1235 1364 1216 1363 1128 1354 1127 1354 1125 1354 1123 1354 1110 1364 1093 1358 1092 1358 1090 1358 1088 1358 1057 1366 1058 1404 1058 1422 1225 1419 1250 1421 1343 1431 1344 1431 1346 1431 1371 1419 1378 1417 1397 1419 1481 1429 1482 1429 1549 1419 1572 1429 1574 1429 1575 1431 1645 1431 1645 1429 1647 1429 1682 1416 1682 1401 1677 1353 1673 1353"/></Shape>
+	    <String CONTENT="pel Dr BREMON MASGRAU"
+                    HPOS="1057"
+                    VPOS="1353"
+                    WIDTH="625"
+                    HEIGHT="78"
+                    WC="0.983291163330986"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a106848e"
+                    TAGREFS="LT4150"
+                    BASELINE="292 1527 1683 1524" 
+                    HPOS="290"
+                    VPOS="1481"
+                    WIDTH="1393"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1678 1491 987 1481 985 1481 917 1482 915 1482 897 1492 894 1494 754 1494 751 1492 736 1484 734 1484 733 1484 731 1484 703 1492 698 1492 694 1492 678 1484 676 1484 674 1484 634 1492 628 1492 621 1492 588 1484 586 1484 551 1492 546 1492 535 1482 533 1482 531 1482 530 1482 295 1491 290 1496 292 1527 292 1547 1683 1539 1683 1524 1680 1492 1678 1491"/></Shape>
+	    <String CONTENT="L’apendicitis sota el punt de vista rudiològic no és ben bé una cosa"
+                    HPOS="290"
+                    VPOS="1481"
+                    WIDTH="1393"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_087476cf"
+                    TAGREFS="LT4150"
+                    BASELINE="212 1582 1680 1575" 
+                    HPOS="211"
+                    VPOS="1535"
+                    WIDTH="1469"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="211 1555 212 1582 212 1599 1678 1595 1680 1575 1677 1547 1484 1535 1482 1535 1481 1535 1479 1535 1462 1547 1461 1549 1401 1549 1399 1547 1376 1535 1374 1535 1313 1535 1311 1535 1309 1535 1261 1547 1255 1549 1198 1549 950 1542 949 1542 899 1549 885 1550 871 1549 782 1539 781 1539 724 1550 719 1550 718 1550 696 1539 694 1539 580 1539 578 1539 576 1539 575 1539 556 1550 551 1552 377 1552 377 1550 354 1540 352 1540 244 1540 242 1540 241 1540 222 1545 211 1555"/></Shape>
+	    <String CONTENT="completament resolta. Fa molt anys que es remorca lu importència de"
+                    HPOS="211"
+                    VPOS="1535"
+                    WIDTH="1469"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c092cfe"
+                    TAGREFS="LT4150"
+                    BASELINE="211 1635 1678 1632" 
+                    HPOS="209"
+                    VPOS="1595"
+                    WIDTH="1469"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="211 1635 211 1655 1677 1652 1678 1632 1677 1604 1665 1595 1663 1595 1662 1595 1660 1595 1614 1604 1250 1595 1248 1595 1246 1595 1220 1604 1216 1604 1213 1604 1183 1595 1181 1595 1180 1595 1057 1602 1027 1604 1023 1602 1010 1595 1008 1595 1007 1595 965 1602 942 1605 929 1602 914 1597 912 1597 910 1597 909 1597 907 1597 900 1602 892 1605 209 1599 211 1635"/></Shape>
+	    <String CONTENT="l’examen Roentgen per a despistar les afeccions d’origen apendicular; cal,"
+                    HPOS="209"
+                    VPOS="1595"
+                    WIDTH="1469"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b299008d"
+                    TAGREFS="LT4150"
+                    BASELINE="209 1695 1680 1685" 
+                    HPOS="207"
+                    VPOS="1645"
+                    WIDTH="1473"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="209 1695 209 1718 463 1708 616 1713 696 1717 698 1717 728 1713 769 1707 812 1712 844 1715 846 1715 882 1710 919 1707 1020 1708 1186 1713 1188 1713 1235 1707 1256 1703 1269 1707 1293 1712 1294 1712 1296 1712 1446 1703 1466 1703 1479 1703 1612 1710 1614 1710 1678 1700 1680 1685 1677 1655 1452 1645 1451 1645 1449 1645 1427 1655 1419 1655 1256 1647 1255 1647 1190 1657 1183 1657 1170 1657 1052 1648 1050 1648 957 1657 940 1658 924 1658 832 1650 831 1650 829 1650 812 1658 811 1658 782 1658 555 1652 553 1652 551 1652 526 1660 521 1660 516 1660 473 1652 472 1652 207 1660 209 1695"/></Shape>
+	    <String CONTENT="però, de tant en tant, sospesor les conquistes fetes, comparar les dades"
+                    HPOS="207"
+                    VPOS="1645"
+                    WIDTH="1473"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8af42a96"
+                    TAGREFS="LT4150"
+                    BASELINE="211 1743 1682 1740" 
+                    HPOS="209"
+                    VPOS="1703"
+                    WIDTH="1473"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="211 1743 211 1763 1678 1766 1682 1740 1678 1707 1384 1703 1383 1703 1381 1703 1364 1708 1349 1712 1323 1708 1286 1703 1284 1703 1238 1708 1211 1712 1186 1710 1133 1703 1132 1703 982 1710 919 1713 914 1712 900 1705 899 1705 897 1705 895 1705 894 1705 885 1712 882 1715 804 1715 796 1712 762 1705 761 1705 759 1705 757 1705 746 1712 743 1715 633 1715 621 1713 511 1705 510 1705 508 1705 506 1705 495 1713 495 1715 482 1715 365 1715 251 1705 249 1705 247 1705 209 1715 211 1743"/></Shape>
+	    <String CONTENT="absolutment definitives, rebutjar les que no hagin estat confirmades per"
+                    HPOS="209"
+                    VPOS="1703"
+                    WIDTH="1473"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_096b9fbf"
+                    TAGREFS="LT4150"
+                    BASELINE="211 1800 1678 1796" 
+                    HPOS="209"
+                    VPOS="1763"
+                    WIDTH="1469"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="211 1800 211 1821 1677 1816 1678 1796 1673 1763 209 1766 211 1800"/></Shape>
+	    <String CONTENT="la pràctica, aquilatar el vilor d’un símptoma o d’un mètode d’exploració,"
+                    HPOS="209"
+                    VPOS="1763"
+                    WIDTH="1469"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_381010ff"
+                    TAGREFS="LT4150"
+                    BASELINE="209 1855 1678 1850" 
+                    HPOS="207"
+                    VPOS="1815"
+                    WIDTH="1471"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="209 1855 209 1878 1677 1868 1678 1850 1675 1815 207 1815 209 1855"/></Shape>
+	    <String CONTENT="reajustor, que diríem, tot el que sobre apèndix hi hogi escrit o publicat, per"
+                    HPOS="207"
+                    VPOS="1815"
+                    WIDTH="1471"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee0655b6"
+                    TAGREFS="LT4150"
+                    BASELINE="209 1908 1678 1904" 
+                    HPOS="207"
+                    VPOS="1866"
+                    WIDTH="1471"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="209 1908 209 1924 1675 1926 1678 1904 1675 1866 1007 1866 1005 1866 935 1871 885 1874 719 1873 302 1868 300 1868 207 1876 209 1908"/></Shape>
+	    <String CONTENT="a treure&#x27;n un concepte clar del que és cert i que és incert, del veritable i del"
+                    HPOS="207"
+                    VPOS="1866"
+                    WIDTH="1471"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7397b31c"
+                    TAGREFS="LT4150"
+                    BASELINE="209 1963 1540 1959" 
+                    HPOS="207"
+                    VPOS="1919"
+                    WIDTH="1333"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="209 1963 211 1988 241 1979 636 1984 786 1986 787 1986 1539 1976 1540 1959 1535 1919 1497 1928 1471 1919 1469 1919 1467 1919 1466 1919 1429 1928 1303 1919 1289 1919 1288 1919 1281 1919 1230 1928 1168 1919 1158 1919 1156 1919 1155 1919 1151 1919 1128 1928 207 1924 209 1963"/></Shape>
+	    <String CONTENT="problemàtic, de l’evident o de l’illusori en l’exploració apendicular."
+                    HPOS="207"
+                    VPOS="1919"
+                    WIDTH="1333"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5b14848"
+                    TAGREFS="LT4150"
+                    BASELINE="294 2014 1680 2014" 
+                    HPOS="294"
+                    VPOS="1976"
+                    WIDTH="1386"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="294 2014 294 2032 309 2041 310 2041 312 2041 526 2032 636 2041 638 2041 704 2032 731 2041 733 2041 734 2041 867 2032 927 2041 929 2042 1047 2042 1047 2041 1048 2041 1065 2032 1110 2041 1112 2041 1173 2032 1231 2041 1233 2041 1319 2032 1579 2041 1580 2041 1680 2031 1680 2014 1680 1983 1607 1976 1605 1976 1575 1981 1550 1986 1534 1981 1517 1976 1515 1976 1514 1976 1512 1976 1510 1976 1504 1981 1494 1988 1309 1988 1294 1979 1288 1978 1286 1978 1284 1978 1243 1979 1145 1986 1117 1979 1103 1976 1102 1976 1100 1976 1080 1979 1038 1986 1008 1979 997 1976 995 1976 994 1976 992 1976 985 1979 964 1988 852 1988 834 1978 829 1976 827 1976 826 1976 824 1976 819 1978 802 1986 772 1978 766 1976 764 1976 762 1976 761 1976 756 1978 726 1986 694 1978 689 1976 688 1976 686 1976 684 1976 683 1976 681 1978 664 1988 593 1988 423 1976 413 1976 412 1976 408 1976 359 1986 294 1976 294 2014"/></Shape>
+	    <String CONTENT="Ullada històrica.— L’apèndix normal pot ésser representat rqdiogròfi¬"
+                    HPOS="294"
+                    VPOS="1976"
+                    WIDTH="1386"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e4140ac"
+                    TAGREFS="LT4150"
+                    BASELINE="209 2072 1678 2066" 
+                    HPOS="207"
+                    VPOS="2034"
+                    WIDTH="1471"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="209 2072 209 2089 1677 2082 1678 2066 1673 2034 207 2037 209 2072"/></Shape>
+	    <String CONTENT="cament en un considerable nombre de casos, els primers, foren publicats"
+                    HPOS="207"
+                    VPOS="2034"
+                    WIDTH="1471"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_569f3710"
+                    TAGREFS="LT4150"
+                    BASELINE="207 2127 1678 2120" 
+                    HPOS="206"
+                    VPOS="2081"
+                    WIDTH="1472"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="207 2127 207 2152 1678 2147 1678 2120 1675 2091 1318 2081 1316 2081 1314 2081 1294 2091 1090 2084 1088 2084 826 2092 729 2084 728 2084 676 2092 659 2084 658 2084 656 2084 573 2094 550 2086 548 2086 546 2086 413 2094 297 2086 295 2086 206 2096 207 2127"/></Shape>
+	    <String CONTENT="per Singer y Holzknecht, advertint, però, que la visualització s&#x27;obtenia d&#x27;una"
+                    HPOS="206"
+                    VPOS="2081"
+                    WIDTH="1472"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a69ac312"
+                    TAGREFS="LT4150"
+                    BASELINE="209 2179 1675 2174" 
+                    HPOS="207"
+                    VPOS="2139"
+                    WIDTH="1468"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="209 2179 209 2197 1673 2192 1675 2174 1672 2139 724 2139 723 2139 721 2139 698 2145 691 2147 620 2147 314 2140 312 2140 207 2149 209 2179"/></Shape>
+	    <String CONTENT="manera molt rort ì incompleta; Grödel deia, que en un gran nombre d’indi¬"
+                    HPOS="207"
+                    VPOS="2139"
+                    WIDTH="1468"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c2e1f65"
+                    TAGREFS="LT4150"
+                    BASELINE="211 2234 1675 2229" 
+                    HPOS="209"
+                    VPOS="2192"
+                    WIDTH="1466"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="211 2234 211 2252 1673 2245 1675 2229 1672 2202 1567 2202 1565 2200 1552 2192 1550 2192 1549 2192 1547 2192 1472 2200 1471 2200 1387 2192 1386 2192 1163 2200 1110 2204 989 2204 984 2200 967 2194 965 2194 964 2194 834 2200 789 2202 767 2200 711 2194 709 2194 708 2194 693 2200 684 2204 676 2200 664 2195 663 2195 661 2195 636 2200 616 2204 209 2200 211 2234"/></Shape>
+	    <String CONTENT="vidus explorats per ell, solament havia pogut veure l’apèndix en dos oca¬"
+                    HPOS="209"
+                    VPOS="2192"
+                    WIDTH="1466"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12e354a7"
+                    TAGREFS="LT4150"
+                    BASELINE="207 2287 1675 2282" 
+                    HPOS="206"
+                    VPOS="2247"
+                    WIDTH="1469"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="207 2287 207 2305 691 2313 693 2313 1675 2303 1675 2282 1670 2247 206 2250 207 2287"/></Shape>
+	    <String CONTENT="sions, i tots dos casos eren d’apendicitis crònica. Case, en convi, presenta"
+                    HPOS="206"
+                    VPOS="2247"
+                    WIDTH="1469"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4335e868"
+                    TAGREFS="LT4150"
+                    BASELINE="206 2345 1673 2337" 
+                    HPOS="206"
+                    VPOS="2305"
+                    WIDTH="1467"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="206 2345 206 2362 1672 2355 1673 2337 1668 2305 212 2312 206 2345"/></Shape>
+	    <String CONTENT="seixanta observacions en les quals va posar-lo de manifest, advertint que"
+                    HPOS="206"
+                    VPOS="2305"
+                    WIDTH="1467"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e1fbc37"
+                    TAGREFS="LT4150"
+                    BASELINE="207 2398 1673 2391" 
+                    HPOS="206"
+                    VPOS="2353"
+                    WIDTH="1467"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="207 2398 207 2416 239 2425 241 2425 324 2416 332 2416 347 2426 349 2426 350 2426 352 2426 473 2416 477 2416 487 2416 937 2425 939 2425 1028 2413 1037 2413 1057 2413 1279 2423 1281 2423 1283 2423 1311 2411 1314 2411 1326 2411 1406 2421 1407 2421 1672 2410 1673 2391 1668 2358 1486 2362 1466 2358 1431 2353 1429 2353 1383 2360 1363 2362 1353 2360 1331 2353 1329 2353 1328 2353 1213 2360 1165 2363 1153 2362 1128 2355 1127 2355 1125 2355 1092 2362 1078 2363 1047 2362 940 2355 939 2355 809 2363 776 2365 766 2363 728 2357 726 2357 724 2357 709 2363 708 2365 706 2363 696 2357 694 2357 693 2357 573 2357 571 2357 369 2367 349 2367 345 2367 307 2358 305 2358 206 2367 207 2398"/></Shape>
+	    <String CONTENT="en cinquanta d’elles s&#x27;observaren alteracions d’apendicitis crònica en els"
+                    HPOS="206"
+                    VPOS="2353"
+                    WIDTH="1467"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a964567a"
+                    TAGREFS="LT4150"
+                    BASELINE="209 2450 563 2450" 
+                    HPOS="209"
+                    VPOS="2410"
+                    WIDTH="354"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="209 2450 209 2470 563 2470 563 2450 561 2411 354 2418 340 2416 312 2410 310 2410 309 2410 290 2416 289 2418 287 2416 277 2410 275 2410 274 2410 272 2410 209 2418 209 2450"/></Shape>
+	    <String CONTENT="apèndixs operats."
+                    HPOS="209"
+                    VPOS="2410"
+                    WIDTH="354"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f8e5c6f"
+                    TAGREFS="LT4150"
+                    BASELINE="289 2506 1672 2499" 
+                    HPOS="287"
+                    VPOS="2461"
+                    WIDTH="1385"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="289 2506 289 2521 977 2528 979 2528 980 2528 1002 2518 1005 2518 1043 2518 1289 2526 1291 2526 1373 2516 1383 2516 1384 2516 1402 2524 1404 2524 1406 2524 1670 2514 1672 2499 1668 2473 1524 2473 1522 2471 1482 2461 1481 2461 1479 2461 1477 2461 1452 2471 1451 2471 1436 2471 1263 2463 1261 2463 1213 2471 1193 2473 1132 2470 994 2463 992 2463 990 2463 979 2470 969 2475 930 2470 892 2465 890 2465 889 2465 871 2470 849 2475 718 2468 654 2466 653 2466 651 2466 646 2468 629 2476 598 2468 590 2466 588 2466 586 2466 540 2468 380 2476 287 2468 289 2506"/></Shape>
+	    <String CONTENT="George i Gerber el 1913 van un xic més lluny, i afirmen que han asso¬"
+                    HPOS="287"
+                    VPOS="2461"
+                    WIDTH="1385"
+                    HEIGHT="67"
+                    WC="0.989316792998995"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7959f2b"
+                    TAGREFS="LT4150"
+                    BASELINE="207 2559 1673 2554" 
+                    HPOS="206"
+                    VPOS="2516"
+                    WIDTH="1467"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="207 2559 207 2574 257 2584 259 2584 325 2576 372 2584 374 2584 465 2576 543 2584 545 2586 694 2586 694 2584 696 2584 714 2574 716 2574 723 2574 761 2583 762 2583 764 2583 786 2574 791 2574 804 2574 877 2583 879 2583 999 2574 1022 2574 1108 2574 1112 2574 1122 2583 1123 2583 1125 2583 1127 2583 1183 2574 1203 2573 1211 2574 1226 2581 1228 2581 1230 2581 1673 2574 1673 2554 1670 2526 1333 2526 1329 2524 1318 2516 1316 2516 1314 2516 1313 2516 1259 2524 1250 2524 1230 2524 1133 2518 1132 2518 1130 2518 1128 2518 1120 2523 1117 2526 1112 2523 1100 2518 1098 2518 1097 2518 1057 2523 1033 2526 857 2523 703 2519 701 2519 699 2519 693 2523 679 2528 646 2521 629 2519 628 2519 606 2521 555 2528 518 2521 505 2519 503 2519 502 2519 495 2521 475 2528 206 2521 207 2559"/></Shape>
+	    <String CONTENT="lit representar l’apèndix en quasi el 70 por 100 dels malalts sotmesos a exa¬"
+                    HPOS="206"
+                    VPOS="2516"
+                    WIDTH="1467"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_965dc504"
+                    TAGREFS="LT4150"
+                    BASELINE="207 2613 1672 2608" 
+                    HPOS="206"
+                    VPOS="2571"
+                    WIDTH="1466"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="207 2613 207 2642 282 2647 284 2647 285 2647 294 2642 307 2636 345 2642 377 2649 378 2649 435 2642 506 2636 525 2642 538 2649 540 2649 541 2649 543 2649 563 2642 588 2636 656 2642 683 2646 684 2646 703 2642 757 2634 847 2642 849 2642 997 2634 1072 2642 1097 2646 1098 2646 1100 2646 1107 2642 1130 2632 1200 2632 1238 2642 1241 2644 1243 2644 1245 2644 1246 2644 1250 2642 1268 2634 1283 2642 1286 2646 1288 2646 1289 2646 1291 2647 1514 2647 1514 2646 1515 2646 1522 2642 1545 2634 1569 2642 1575 2646 1577 2646 1579 2646 1672 2642 1672 2608 1668 2579 844 2571 842 2571 841 2571 821 2579 337 2573 335 2573 206 2581 207 2613"/></Shape>
+	    <String CONTENT="men; Grigorieff afirma que la repleció de l’òrgan s&#x27;aconsegueix en tots els"
+                    HPOS="206"
+                    VPOS="2571"
+                    WIDTH="1466"
+                    HEIGHT="78"
+                    WC="0.987084255590067"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

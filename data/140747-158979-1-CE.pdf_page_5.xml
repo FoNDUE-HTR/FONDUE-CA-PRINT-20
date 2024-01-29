@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>140747-158979-1-CE.pdf_page_5.png</fileName>
+      <fileIdentifier>pdf//140747-158979-1-CE.pdf</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10616" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT10596" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10595" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10594" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10591" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10590" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10593" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10592" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT4166" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4151" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4150" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1992"
+          HEIGHT="2985"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1992"
+                  HEIGHT="2985">
+        
+        <TextBlock HPOS="233"
+                   VPOS="246"
+                   WIDTH="448"
+                   HEIGHT="57"
+                   ID="eSc_textblock_6e74b66f"
+                   TAGREFS="BT10593">
+          <Shape><Polygon POINTS="233 246 233 303 681 303 681 246"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bb0c833c"
+                    TAGREFS="LT4151"
+                    BASELINE="242 278 666 283" 
+                    HPOS="240"
+                    VPOS="245"
+                    WIDTH="426"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="623 250 607 250 590 250 573 250 557 248 540 248 524 248 507 248 490 248 474 248 457 247 441 247 424 247 408 247 391 247 374 247 358 247 341 245 325 245 308 245 291 245 275 245 258 245 242 253 242 278 240 296 663 301 666 283 665 253 645 250 640 250"/></Shape>
+	    <String CONTENT="MEDICINA FÍSICA"
+                    HPOS="240"
+                    VPOS="245"
+                    WIDTH="426"
+                    HEIGHT="56"
+                    WC="0.987229105085135"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1644"
+                   VPOS="249"
+                   WIDTH="64"
+                   HEIGHT="53"
+                   ID="eSc_textblock_20d98e1f"
+                   TAGREFS="BT10592">
+          <Shape><Polygon POINTS="1644 249 1644 302 1708 302 1708 249"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bd135f44"
+                    TAGREFS="LT4150"
+                    BASELINE="1658 285 1705 285" 
+                    HPOS="1658"
+                    VPOS="252"
+                    WIDTH="47"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1691 255 1675 253 1666 252 1658 257 1658 285 1658 310 1703 316 1705 285 1703 275 1691 255"/></Shape>
+	    <String CONTENT="25"
+                    HPOS="1658"
+                    VPOS="252"
+                    WIDTH="47"
+                    HEIGHT="64"
+                    WC="0.999578475952148"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="211"
+                   VPOS="334"
+                   WIDTH="1522"
+                   HEIGHT="2294"
+                   ID="eSc_textblock_e706be6c"
+                   TAGREFS="BT10591">
+          <Shape><Polygon POINTS="211 334 211 2628 1690 2628 1733 334"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_17667021"
+                    TAGREFS="LT4150"
+                    BASELINE="242 379 1706 386" 
+                    HPOS="240"
+                    VPOS="338"
+                    WIDTH="1466"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1602 349 1585 351 1579 351 1579 353 1444 353 1433 351 1419 351 1403 351 1386 351 1370 351 1353 351 1336 351 1320 351 1303 351 1287 351 1270 351 1253 351 1237 351 1220 351 1204 351 1187 351 1170 351 1154 351 1137 351 1121 351 1104 351 1088 351 1071 351 1054 351 1038 351 1021 351 1005 351 988 351 971 351 955 351 938 351 922 349 905 349 889 348 872 348 855 346 839 346 822 344 806 344 796 343 693 348 668 348 661 348 607 338 605 338 545 346 544 346 492 338 490 338 242 344 242 379 240 404 1703 411 1706 386 1706 353 1675 343 1673 343 1671 343 1670 343 1645 351 1615 344 1602 349"/></Shape>
+	    <String CONTENT="ta hiperèmia afecta també el peritoneu parietal de la fossa ilíaca dreta;"
+                    HPOS="240"
+                    VPOS="338"
+                    WIDTH="1466"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72351d54"
+                    TAGREFS="LT4150"
+                    BASELINE="242 434 1705 439" 
+                    HPOS="240"
+                    VPOS="396"
+                    WIDTH="1465"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="242 434 240 459 1701 462 1705 439 1703 399 1572 399 1570 399 1569 399 1545 407 1454 399 1446 399 1444 399 1442 399 1441 399 1409 407 1394 399 1393 399 1391 399 1389 399 1376 399 1270 407 1248 399 1245 399 1243 399 1242 399 1240 399 1237 399 1220 407 1212 401 1210 398 1209 398 1207 398 1205 398 1190 401 1164 407 993 407 983 401 980 398 978 398 976 398 975 398 942 401 898 406 884 401 872 398 870 398 869 398 867 398 865 398 860 401 852 407 739 407 731 401 723 396 721 396 719 396 718 396 678 402 658 406 399 406 396 402 386 396 384 396 383 396 381 396 242 402 242 434"/></Shape>
+	    <String CONTENT="pèndix adherit, petit i friable, l&#x27;ablació del qual s&#x27;ha d’efectuar per frag¬"
+                    HPOS="240"
+                    VPOS="396"
+                    WIDTH="1465"
+                    HEIGHT="66"
+                    WC="0.975772672816168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_219ff9f9"
+                    TAGREFS="LT4150"
+                    BASELINE="240 490 1708 494" 
+                    HPOS="238"
+                    VPOS="461"
+                    WIDTH="1470"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="240 490 238 510 1705 517 1708 494 1706 461 240 461 240 490"/></Shape>
+	    <String CONTENT="ments. Tractment: apendicectomia, sutura, metxa de gasa per hemorràgia"
+                    HPOS="238"
+                    VPOS="461"
+                    WIDTH="1470"
+                    HEIGHT="56"
+                    WC="0.965673657790036"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a49877cd"
+                    TAGREFS="LT4150"
+                    BASELINE="240 543 1706 548" 
+                    HPOS="238"
+                    VPOS="505"
+                    WIDTH="1468"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="240 543 238 570 1703 572 1706 548 1705 509 1539 509 1537 509 1535 509 1509 517 1474 509 1469 509 1467 509 1462 509 1416 519 1200 510 1149 509 1147 509 1114 510 1023 517 1001 510 988 507 986 507 985 507 983 507 981 507 976 510 966 519 862 519 844 512 827 507 825 507 824 507 776 512 731 517 711 512 683 505 681 505 680 505 240 514 240 543"/></Shape>
+	    <String CONTENT="en llençol. Diagnòstic operatori: apendicitis crònica amb senyals d’intens i"
+                    HPOS="238"
+                    VPOS="505"
+                    WIDTH="1468"
+                    HEIGHT="67"
+                    WC="0.974216768258735"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25255d60"
+                    TAGREFS="LT4150"
+                    BASELINE="240 600 821 600" 
+                    HPOS="240"
+                    VPOS="567"
+                    WIDTH="581"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="240 600 240 620 504 626 505 626 534 623 588 618 620 625 630 626 631 626 633 626 638 625 661 618 706 626 714 626 716 626 723 626 774 618 819 626 821 600 821 568 240 567 240 600"/></Shape>
+	    <String CONTENT="prolongat procés inflamatori."
+                    HPOS="240"
+                    VPOS="567"
+                    WIDTH="581"
+                    HEIGHT="59"
+                    WC="0.990316569805145"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d3c604e"
+                    TAGREFS="LT4150"
+                    BASELINE="320 656 1705 660" 
+                    HPOS="318"
+                    VPOS="616"
+                    WIDTH="1387"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="320 656 318 673 1701 676 1705 660 1701 620 1013 626 320 616 320 656"/></Shape>
+	    <String CONTENT="M. R. Regió apendicular dolorosa, amb adherències. Diagnòstic radio¬"
+                    HPOS="318"
+                    VPOS="616"
+                    WIDTH="1387"
+                    HEIGHT="60"
+                    WC="0.99263841921175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e991fb6"
+                    TAGREFS="LT4150"
+                    BASELINE="238 708 1706 713" 
+                    HPOS="237"
+                    VPOS="668"
+                    WIDTH="1469"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="238 708 237 724 288 734 290 734 1705 732 1706 713 1703 671 1647 679 1545 671 1544 671 1542 671 1507 681 1219 681 1074 671 1049 669 1048 669 1039 671 998 678 925 671 910 669 908 669 907 669 902 671 874 678 840 671 834 669 832 669 819 671 756 678 699 671 678 668 676 668 656 671 615 676 555 671 524 668 522 668 489 671 419 676 238 671 238 708"/></Shape>
+	    <String CONTENT="lògic: Apendicitis. Operació. Apèndix llarg, amb serosa hipertrofiada. Al"
+                    HPOS="237"
+                    VPOS="668"
+                    WIDTH="1469"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ffb1bab"
+                    TAGREFS="LT4150"
+                    BASELINE="238 761 1703 767" 
+                    HPOS="237"
+                    VPOS="724"
+                    WIDTH="1466"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="237 777 265 787 267 787 268 787 1701 786 1703 767 1701 739 1570 729 1569 729 1494 736 1476 737 1469 736 1449 729 1447 729 1446 729 1414 736 1403 737 1376 736 1305 728 1303 728 1268 734 1257 736 1234 734 1177 728 1175 728 1174 728 1172 728 1166 732 1159 737 988 737 980 731 973 726 971 726 970 726 968 726 835 729 686 734 617 728 578 724 577 724 575 724 567 728 552 732 542 728 539 724 537 724 535 724 534 724 495 726 404 732 393 726 393 724 391 724 389 724 298 724 296 724 295 724 293 724 265 732 240 724 238 761 237 777"/></Shape>
+	    <String CONTENT="tall: mucosa hipertròfica amb petits punts epismòtics. Contingut serosango¬"
+                    HPOS="237"
+                    VPOS="724"
+                    WIDTH="1466"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1c69005"
+                    TAGREFS="LT4150"
+                    BASELINE="237 822 1705 822" 
+                    HPOS="237"
+                    VPOS="784"
+                    WIDTH="1468"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="237 822 237 847 1705 844 1705 822 1705 794 1655 784 1653 784 1583 792 1532 784 1530 784 1200 792 1121 784 1119 784 1117 784 1089 792 1059 784 1058 784 1056 784 1016 792 991 784 990 784 988 784 986 784 953 792 932 784 930 784 928 784 884 792 857 784 855 784 854 784 779 792 761 784 759 784 757 784 706 792 680 784 678 784 676 784 588 792 575 784 573 784 572 784 570 784 476 792 447 784 446 784 283 784 281 784 237 792 237 822"/></Shape>
+	    <String CONTENT="nent. En la regió proximal de l’apèndix flota en aquest contingut un cuc"
+                    HPOS="237"
+                    VPOS="784"
+                    WIDTH="1468"
+                    HEIGHT="63"
+                    WC="0.965058455998833"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f54aec78"
+                    TAGREFS="LT4150"
+                    BASELINE="238 873 1199 878" 
+                    HPOS="237"
+                    VPOS="834"
+                    WIDTH="962"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="237 895 245 902 247 902 248 902 250 902 252 902 278 892 437 892 485 902 487 902 489 902 507 892 514 898 514 900 515 900 517 900 519 900 572 893 612 903 613 903 615 905 721 905 721 903 723 903 724 903 734 895 811 902 812 902 814 902 844 893 880 903 882 903 884 903 885 903 912 895 942 905 943 905 945 905 1197 893 1199 878 1199 849 1159 837 1157 837 1156 837 1109 847 1104 847 1084 847 948 837 947 837 945 837 943 837 933 844 927 849 880 849 870 844 854 835 852 835 850 835 849 835 847 835 835 842 830 845 789 842 719 835 718 835 716 835 714 835 714 837 709 840 706 845 693 840 685 837 683 837 681 837 655 840 602 845 577 839 560 834 558 834 557 834 555 834 545 839 534 842 514 837 495 834 494 834 492 834 490 834 487 837 479 844 464 837 457 834 456 834 389 834 388 834 386 834 379 835 348 844 326 834 323 834 321 834 320 834 318 834 315 834 280 844 240 834 238 873 237 895"/></Shape>
+	    <String CONTENT="(oxiur). Diagnòctic operatori: apendicitis aguda."
+                    HPOS="237"
+                    VPOS="834"
+                    WIDTH="962"
+                    HEIGHT="71"
+                    WC="0.97405709028244"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a88600dc"
+                    TAGREFS="LT4150"
+                    BASELINE="315 938 1703 941" 
+                    HPOS="313"
+                    VPOS="897"
+                    WIDTH="1390"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="315 938 313 953 354 963 356 963 1701 961 1703 941 1703 910 1671 898 1670 898 1668 898 1666 898 1640 908 1640 910 1572 910 1572 908 1550 898 1549 898 1401 898 1399 898 1398 898 1371 907 1366 910 1283 910 1275 907 1252 898 1250 898 1248 898 1247 898 1224 907 1214 908 1197 905 1156 898 1154 898 1096 905 1064 908 1011 905 913 897 844 897 842 897 840 897 827 903 819 907 806 903 782 897 781 897 779 897 777 897 764 903 754 907 736 902 709 897 708 897 651 902 595 907 315 900 315 938"/></Shape>
+	    <String CONTENT="C. L. Regió apendicular dolorosa amb adherències. Peritiflitis: angle"
+                    HPOS="313"
+                    VPOS="897"
+                    WIDTH="1390"
+                    HEIGHT="66"
+                    WC="0.964939128075327"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6507f2d1"
+                    TAGREFS="LT4150"
+                    BASELINE="235 993 1700 998" 
+                    HPOS="235"
+                    VPOS="953"
+                    WIDTH="1465"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="235 993 235 1016 1698 1013 1700 998 1700 966 1666 956 1665 956 1663 956 1608 965 1592 956 1590 956 1588 956 1404 965 1381 965 1353 965 1175 956 1174 956 1099 963 1093 963 1091 963 1079 955 1078 955 1076 955 1074 955 1073 955 1046 963 1043 963 1038 963 985 955 983 955 981 955 957 963 952 963 940 963 874 955 872 955 739 961 724 961 723 961 704 953 703 953 701 953 666 961 663 961 661 961 643 953 641 953 640 953 638 953 610 961 605 961 602 961 572 953 570 953 568 953 527 960 517 961 507 960 461 953 459 953 426 960 416 961 235 960 235 993"/></Shape>
+	    <String CONTENT="colicohepètic dolorós i ptòsic. Diagnòstic radiogràfic: apendicitis crònica."
+                    HPOS="235"
+                    VPOS="953"
+                    WIDTH="1465"
+                    HEIGHT="63"
+                    WC="0.985364356158692"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_149b805a"
+                    TAGREFS="LT4150"
+                    BASELINE="235 1046 1701 1051" 
+                    HPOS="233"
+                    VPOS="1013"
+                    WIDTH="1468"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="235 1046 233 1067 1698 1071 1701 1051 1698 1013 235 1013 235 1046"/></Shape>
+	    <String CONTENT="Operació. Apèndix formant una massa única, amb el seu meso considera¬"
+                    HPOS="233"
+                    VPOS="1013"
+                    WIDTH="1468"
+                    HEIGHT="58"
+                    WC="0.97737456444237"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_62b2b851"
+                    TAGREFS="LT4150"
+                    BASELINE="235 1099 1703 1106" 
+                    HPOS="233"
+                    VPOS="1062"
+                    WIDTH="1470"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="235 1099 233 1116 258 1126 260 1126 262 1126 1701 1124 1703 1106 1701 1077 1588 1067 1587 1067 1396 1074 1336 1076 1326 1074 1297 1066 1295 1066 1293 1066 1252 1072 1243 1074 1234 1072 1195 1066 1194 1066 1048 1071 970 1074 947 1071 908 1064 907 1064 905 1064 887 1071 879 1072 857 1069 811 1064 809 1064 807 1064 792 1069 784 1072 777 1069 766 1064 764 1064 762 1064 761 1064 759 1064 753 1069 746 1072 681 1069 587 1062 585 1062 534 1067 497 1071 472 1067 444 1062 442 1062 422 1066 404 1071 393 1066 384 1062 383 1062 381 1062 361 1066 335 1071 235 1066 235 1099"/></Shape>
+	    <String CONTENT="blement hipertrofiat, amb hemorràgies intersticials. Lleugeres adherències"
+                    HPOS="233"
+                    VPOS="1062"
+                    WIDTH="1470"
+                    HEIGHT="64"
+                    WC="0.985844987787698"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51e9e2e0"
+                    TAGREFS="LT4150"
+                    BASELINE="235 1160 1703 1157" 
+                    HPOS="233"
+                    VPOS="1117"
+                    WIDTH="1470"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="235 1160 235 1184 1703 1179 1703 1157 1698 1117 1645 1127 1277 1127 1265 1121 1258 1117 1257 1117 1255 1117 1222 1121 1174 1126 1152 1121 1132 1117 1131 1117 1051 1122 960 1127 741 1124 354 1119 353 1119 351 1119 328 1127 255 1119 253 1119 252 1119 233 1126 235 1160"/></Shape>
+	    <String CONTENT="en la seva base, de fàcil dissecció; apèndix petit esclerosat intensament. Al"
+                    HPOS="233"
+                    VPOS="1117"
+                    WIDTH="1470"
+                    HEIGHT="67"
+                    WC="0.970299789422675"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8df92a49"
+                    TAGREFS="LT4150"
+                    BASELINE="235 1213 1701 1213" 
+                    HPOS="235"
+                    VPOS="1175"
+                    WIDTH="1466"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="235 1213 235 1233 1698 1235 1701 1213 1700 1185 1656 1175 1655 1175 1653 1175 1635 1184 1618 1175 1617 1175 1615 1175 1540 1184 1537 1184 1527 1184 1283 1175 1282 1175 1234 1184 1227 1184 1225 1184 1209 1175 1207 1175 1089 1175 1088 1175 1086 1175 1084 1175 1074 1182 1073 1184 1068 1182 1043 1175 1041 1175 1039 1175 1000 1182 990 1184 978 1182 938 1175 784 1175 782 1175 781 1175 767 1182 762 1184 748 1182 711 1175 709 1175 680 1180 665 1184 641 1180 598 1175 597 1175 595 1175 593 1175 585 1180 580 1184 573 1180 558 1175 557 1175 555 1175 512 1180 482 1184 235 1180 235 1213"/></Shape>
+	    <String CONTENT="tall: llum apendicular obstruïda en la seva porció basilar, mucosa atrofiada"
+                    HPOS="235"
+                    VPOS="1175"
+                    WIDTH="1466"
+                    HEIGHT="60"
+                    WC="0.959387891865396"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_670c9ffb"
+                    TAGREFS="LT4150"
+                    BASELINE="233 1265 1700 1271" 
+                    HPOS="232"
+                    VPOS="1233"
+                    WIDTH="1468"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="233 1265 232 1288 1696 1290 1700 1271 1698 1233 233 1233 233 1265"/></Shape>
+	    <String CONTENT="amb puntejat hemorràgic en tota la seva superfície. Diagnòstic operatori:"
+                    HPOS="232"
+                    VPOS="1233"
+                    WIDTH="1468"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f71c040d"
+                    TAGREFS="LT4150"
+                    BASELINE="232 1323 776 1323" 
+                    HPOS="232"
+                    VPOS="1281"
+                    WIDTH="544"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="232 1323 232 1341 776 1341 776 1323 774 1281 232 1285 232 1323"/></Shape>
+	    <String CONTENT="apendicitis crònica intensa."
+                    HPOS="232"
+                    VPOS="1281"
+                    WIDTH="544"
+                    HEIGHT="60"
+                    WC="0.977185623399143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ca8055e"
+                    TAGREFS="LT4150"
+                    BASELINE="310 1389 1698 1389" 
+                    HPOS="310"
+                    VPOS="1344"
+                    WIDTH="1388"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 1389 310 1404 1696 1407 1698 1389 1698 1354 1580 1354 1579 1353 1567 1344 1565 1344 1564 1344 1562 1344 1520 1353 1517 1353 1501 1353 1331 1344 1330 1344 1328 1344 1303 1351 1298 1353 310 1348 310 1389"/></Shape>
+	    <String CONTENT="E. C. Regió apendicular dolorosa; adherències; dolorós també tot el"
+                    HPOS="310"
+                    VPOS="1344"
+                    WIDTH="1388"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6040e5b3"
+                    TAGREFS="LT4150"
+                    BASELINE="232 1437 1693 1441" 
+                    HPOS="232"
+                    VPOS="1399"
+                    WIDTH="1461"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="232 1437 232 1462 1691 1460 1693 1441 1690 1402 1572 1411 1534 1401 1530 1401 1529 1401 1527 1401 1525 1401 1522 1401 1484 1411 1393 1401 1384 1401 1383 1401 1381 1401 1379 1401 1351 1412 1232 1412 1192 1401 1190 1401 1189 1401 1185 1401 1124 1411 1069 1401 1068 1401 1066 1401 1064 1401 993 1409 945 1401 937 1399 935 1399 927 1399 875 1409 857 1399 855 1399 854 1399 789 1399 787 1399 786 1399 784 1399 762 1411 587 1411 403 1399 396 1399 394 1399 393 1399 391 1399 373 1411 313 1411 232 1399 232 1437"/></Shape>
+	    <String CONTENT="còlon; dolicocòlon esquerre. Diagnòstic radiogràfic: apendicitis. Operació."
+                    HPOS="232"
+                    VPOS="1399"
+                    WIDTH="1461"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0cec128"
+                    TAGREFS="LT4150"
+                    BASELINE="230 1497 1696 1497" 
+                    HPOS="230"
+                    VPOS="1456"
+                    WIDTH="1466"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="230 1497 230 1512 1693 1515 1696 1497 1695 1465 1497 1465 1496 1464 1484 1456 1482 1456 1481 1456 1479 1456 1333 1464 1305 1464 1297 1462 1260 1456 1258 1456 1199 1462 1182 1464 1175 1462 1154 1456 1152 1456 1151 1456 1149 1456 1147 1456 1139 1462 1136 1465 1021 1465 1016 1462 1003 1456 1001 1456 1000 1456 960 1460 938 1464 900 1460 832 1456 830 1456 829 1456 807 1460 792 1464 764 1460 726 1456 724 1456 723 1456 713 1460 704 1464 670 1460 630 1456 628 1456 626 1456 613 1460 598 1464 230 1459 230 1497"/></Shape>
+	    <String CONTENT="Apèndix adossat al cec en tota la seva longitud per adherències vela¬"
+                    HPOS="230"
+                    VPOS="1456"
+                    WIDTH="1466"
+                    HEIGHT="59"
+                    WC="0.98454001503931"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_479db365"
+                    TAGREFS="LT4150"
+                    BASELINE="230 1552 1695 1552" 
+                    HPOS="230"
+                    VPOS="1514"
+                    WIDTH="1465"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="230 1552 230 1568 1693 1572 1695 1552 1693 1514 230 1519 230 1552"/></Shape>
+	    <String CONTENT="mentoses. Examen de la peça: apèndix de dimensions més aviat reduïdes:"
+                    HPOS="230"
+                    VPOS="1514"
+                    WIDTH="1465"
+                    HEIGHT="58"
+                    WC="0.986810237577517"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d795b114"
+                    TAGREFS="LT4150"
+                    BASELINE="230 1605 1698 1601" 
+                    HPOS="228"
+                    VPOS="1565"
+                    WIDTH="1470"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="230 1605 230 1623 1696 1620 1698 1601 1695 1573 966 1565 965 1565 918 1573 278 1567 276 1567 228 1575 230 1605"/></Shape>
+	    <String CONTENT="serosa lleugerament hiperemiada; al tall, cavitat repleta de matèria ester¬"
+                    HPOS="228"
+                    VPOS="1565"
+                    WIDTH="1470"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66b771cc"
+                    TAGREFS="LT4150"
+                    BASELINE="230 1659 1695 1659" 
+                    HPOS="230"
+                    VPOS="1620"
+                    WIDTH="1465"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="230 1659 230 1681 1695 1676 1695 1659 1695 1630 1623 1620 1622 1620 1534 1628 1532 1628 1530 1628 1479 1620 1477 1620 1399 1628 1396 1628 1391 1628 1325 1620 1323 1620 1283 1628 1280 1628 1275 1628 1209 1620 1207 1620 1141 1628 1131 1630 1044 1630 1041 1628 1031 1620 1030 1620 1028 1620 1026 1620 1025 1620 1006 1628 1003 1628 998 1628 968 1620 966 1620 965 1620 963 1620 942 1626 938 1628 930 1626 885 1620 884 1620 850 1626 844 1628 837 1626 809 1620 807 1620 806 1620 804 1620 791 1626 787 1628 782 1626 761 1620 759 1620 757 1620 756 1620 729 1626 723 1628 711 1626 663 1620 661 1620 595 1626 573 1630 480 1630 476 1626 467 1620 466 1620 464 1620 462 1620 230 1625 230 1659"/></Shape>
+	    <String CONTENT="coràcica. Mucosa hipertrofiada. En el vèrtex, la llum apendicular ha des¬"
+                    HPOS="230"
+                    VPOS="1620"
+                    WIDTH="1465"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cebea13e"
+                    TAGREFS="LT4150"
+                    BASELINE="230 1711 1633 1716" 
+                    HPOS="230"
+                    VPOS="1673"
+                    WIDTH="1403"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="230 1711 230 1734 1632 1732 1633 1716 1632 1688 1567 1676 1361 1676 1360 1676 1313 1686 1308 1686 1298 1686 1197 1676 1195 1676 1194 1676 1175 1686 1174 1686 1172 1686 1152 1676 1151 1676 1149 1676 1041 1684 1038 1684 1036 1684 990 1674 923 1674 922 1674 920 1674 918 1674 905 1684 903 1684 865 1674 864 1674 862 1674 635 1683 631 1683 605 1673 603 1673 602 1673 600 1673 572 1683 530 1674 529 1674 527 1674 510 1683 509 1683 230 1683 230 1711"/></Shape>
+	    <String CONTENT="aparegut per procés esclèrsic. Diagnòstic operatori: apendicitis crònica."
+                    HPOS="230"
+                    VPOS="1673"
+                    WIDTH="1403"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b8877d1"
+                    TAGREFS="LT4150"
+                    BASELINE="311 1777 1695 1777" 
+                    HPOS="311"
+                    VPOS="1742"
+                    WIDTH="1384"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="311 1777 311 1795 1695 1795 1695 1777 1695 1742 311 1742 311 1777"/></Shape>
+	    <String CONTENT="A. G. Regió apendicular dolorosa a la pressió, molt adherida. Hemi¬"
+                    HPOS="311"
+                    VPOS="1742"
+                    WIDTH="1384"
+                    HEIGHT="53"
+                    WC="0.983918151129847"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03fd5276"
+                    TAGREFS="LT4150"
+                    BASELINE="228 1829 1695 1832" 
+                    HPOS="227"
+                    VPOS="1797"
+                    WIDTH="1468"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="228 1829 227 1845 247 1855 248 1855 250 1855 764 1850 952 1849 957 1852 961 1857 963 1857 965 1857 966 1858 1693 1858 1695 1832 1693 1797 228 1797 228 1829"/></Shape>
+	    <String CONTENT="còlon dret considerablement ptòsic. Diagnòstic radiològic: apendicitis, ptosi"
+                    HPOS="227"
+                    VPOS="1797"
+                    WIDTH="1468"
+                    HEIGHT="61"
+                    WC="0.985801937403502"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9bbcf87b"
+                    TAGREFS="LT4150"
+                    BASELINE="228 1882 1693 1885" 
+                    HPOS="227"
+                    VPOS="1850"
+                    WIDTH="1466"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="228 1882 227 1900 961 1912 963 1912 1691 1903 1693 1885 1691 1852 228 1850 228 1882"/></Shape>
+	    <String CONTENT="d’hemicòlon dret. Operació. Apèndix posterior amb residus d’intens procés"
+                    HPOS="227"
+                    VPOS="1850"
+                    WIDTH="1466"
+                    HEIGHT="62"
+                    WC="0.981552965842284"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6faef67e"
+                    TAGREFS="LT4150"
+                    BASELINE="228 1936 1691 1940" 
+                    HPOS="227"
+                    VPOS="1900"
+                    WIDTH="1464"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="228 1936 227 1953 326 1963 328 1963 1690 1961 1691 1940 1690 1912 1602 1912 1600 1910 1587 1902 1585 1902 1583 1902 1582 1902 1494 1910 1486 1910 1481 1910 1433 1902 1431 1902 1429 1902 1409 1910 1408 1910 1404 1910 1384 1902 1383 1902 1381 1902 1333 1910 1323 1912 1046 1912 1023 1908 958 1900 957 1900 955 1900 940 1907 938 1908 937 1907 918 1900 917 1900 915 1900 882 1907 874 1908 864 1907 822 1900 821 1900 762 1907 743 1908 734 1907 714 1900 713 1900 711 1900 658 1907 636 1908 621 1907 590 1900 588 1900 587 1900 570 1905 560 1908 547 1905 520 1900 519 1900 517 1900 499 1905 487 1908 228 1905 228 1936"/></Shape>
+	    <String CONTENT="inflamatori, adherències en forma de falses membranes. Tractament: apen¬"
+                    HPOS="227"
+                    VPOS="1900"
+                    WIDTH="1464"
+                    HEIGHT="63"
+                    WC="0.964081500139501"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81fb9b90"
+                    TAGREFS="LT4150"
+                    BASELINE="227 1996 1691 1996" 
+                    HPOS="227"
+                    VPOS="1955"
+                    WIDTH="1464"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="227 1996 227 2018 683 2013 709 2019 716 2021 718 2021 719 2021 744 2019 839 2013 933 2019 952 2021 953 2021 971 2021 1068 2013 1341 2021 1365 2021 1366 2021 1368 2021 1370 2021 1398 2013 1419 2021 1421 2021 1423 2021 1426 2021 1467 2013 1494 2021 1496 2021 1497 2023 1691 2023 1691 1996 1691 1966 1346 1955 1345 1955 1219 1965 1169 1955 1167 1955 1166 1955 1132 1966 973 1966 938 1955 937 1955 935 1955 933 1955 898 1963 797 1955 796 1955 678 1965 640 1955 638 1955 439 1955 437 1955 379 1965 366 1955 364 1955 363 1955 311 1955 310 1955 227 1965 227 1996"/></Shape>
+	    <String CONTENT="dicectomia, sutura. Examen de la peça: serosa hiperemiada en unes zones,"
+                    HPOS="227"
+                    VPOS="1955"
+                    WIDTH="1464"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d40261c0"
+                    TAGREFS="LT4150"
+                    BASELINE="227 2048 1691 2051" 
+                    HPOS="225"
+                    VPOS="2011"
+                    WIDTH="1466"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="227 2048 225 2071 1688 2074 1691 2051 1688 2011 227 2014 227 2048"/></Shape>
+	    <String CONTENT="en altres desllustrada. Al tall: llum apendicular desapareguda, en alguns"
+                    HPOS="225"
+                    VPOS="2011"
+                    WIDTH="1466"
+                    HEIGHT="63"
+                    WC="0.962866692918621"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81c10a79"
+                    TAGREFS="LT4150"
+                    BASELINE="227 2101 1688 2104" 
+                    HPOS="225"
+                    VPOS="2071"
+                    WIDTH="1463"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="227 2101 225 2116 260 2125 262 2125 263 2125 728 2121 895 2119 935 2122 998 2127 1000 2129 1686 2129 1688 2104 1686 2071 227 2071 227 2101"/></Shape>
+	    <String CONTENT="trams per fusió de la mucosa. Intensa esclerosi de la mucosa i submucosa."
+                    HPOS="225"
+                    VPOS="2071"
+                    WIDTH="1463"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_271e372e"
+                    TAGREFS="LT4150"
+                    BASELINE="227 2155 1194 2159" 
+                    HPOS="225"
+                    VPOS="2116"
+                    WIDTH="969"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="227 2155 225 2179 457 2174 497 2179 519 2182 520 2182 547 2179 588 2174 598 2179 607 2182 608 2182 610 2182 612 2182 626 2179 646 2174 670 2179 691 2182 693 2182 694 2182 696 2182 701 2179 706 2175 708 2177 711 2182 713 2182 713 2184 714 2184 716 2184 718 2184 762 2177 779 2175 792 2177 827 2184 829 2185 1005 2185 1005 2184 1006 2184 1008 2184 1018 2175 1020 2175 1026 2175 1096 2184 1098 2184 1099 2184 1101 2184 1111 2175 1112 2175 1192 2175 1194 2159 1192 2129 1147 2119 1146 2119 1101 2127 1099 2127 1088 2117 1086 2117 1084 2117 1083 2117 1081 2117 1048 2125 980 2117 978 2117 976 2117 975 2117 961 2125 958 2127 928 2125 814 2119 812 2119 811 2119 809 2119 801 2125 799 2127 796 2125 786 2117 784 2117 782 2117 704 2116 703 2116 701 2116 675 2124 666 2125 655 2124 613 2116 612 2116 565 2122 544 2125 227 2121 227 2155"/></Shape>
+	    <String CONTENT="Diagnòstic operatori: apendicitis aguda intensa."
+                    HPOS="225"
+                    VPOS="2116"
+                    WIDTH="969"
+                    HEIGHT="69"
+                    WC="0.996444064743665"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f0a6f88"
+                    TAGREFS="LT4150"
+                    BASELINE="306 2222 1690 2218" 
+                    HPOS="305"
+                    VPOS="2174"
+                    WIDTH="1385"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="306 2222 306 2240 1688 2243 1690 2218 1685 2180 1491 2185 1477 2180 1457 2174 1456 2174 1454 2174 1452 2174 1434 2182 1424 2187 1345 2187 1336 2182 1321 2174 1320 2174 1318 2174 1316 2174 1282 2182 1268 2187 1166 2187 1142 2184 1044 2174 1043 2174 980 2184 864 2175 862 2175 860 2175 859 2175 849 2184 799 2175 797 2175 796 2175 767 2185 696 2175 537 2175 535 2175 534 2175 507 2184 462 2175 461 2175 459 2175 457 2175 439 2187 331 2180 330 2180 328 2180 305 2189 306 2222"/></Shape>
+	    <String CONTENT="A. A. Regió cecal molt dilatada; dolorosa la regió apendicular; grans"
+                    HPOS="305"
+                    VPOS="2174"
+                    WIDTH="1385"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c2f631b"
+                    TAGREFS="LT4150"
+                    BASELINE="223 2271 1688 2275" 
+                    HPOS="222"
+                    VPOS="2237"
+                    WIDTH="1466"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="223 2271 222 2293 1685 2295 1688 2275 1686 2237 223 2240 223 2271"/></Shape>
+	    <String CONTENT="adherències. Diagnòstic radiològic: tifloapendicitis. Operació laboriosís¬"
+                    HPOS="222"
+                    VPOS="2237"
+                    WIDTH="1466"
+                    HEIGHT="58"
+                    WC="0.983306945879248"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae2828a9"
+                    TAGREFS="LT4150"
+                    BASELINE="223 2326 1688 2329" 
+                    HPOS="223"
+                    VPOS="2295"
+                    WIDTH="1465"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="223 2326 223 2351 1686 2349 1688 2329 1686 2296 223 2295 223 2326"/></Shape>
+	    <String CONTENT="sima, per trobor-se el cec fixat al pla posterior de la fossa ilíaca: signes"
+                    HPOS="223"
+                    VPOS="2295"
+                    WIDTH="1465"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9cadc1b"
+                    TAGREFS="LT4150"
+                    BASELINE="223 2381 1686 2384" 
+                    HPOS="222"
+                    VPOS="2343"
+                    WIDTH="1464"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="223 2381 222 2399 1683 2401 1686 2384 1685 2354 1321 2344 1320 2344 1230 2353 1222 2353 1217 2353 1175 2344 1174 2344 1137 2353 1134 2353 1131 2353 1104 2344 1102 2344 1101 2344 1099 2344 1098 2344 1086 2353 1084 2354 1008 2354 1001 2353 953 2343 952 2343 900 2351 865 2343 864 2343 862 2343 860 2343 837 2351 809 2343 807 2343 806 2343 718 2351 714 2351 711 2351 656 2343 655 2343 610 2351 608 2351 605 2351 573 2343 572 2343 570 2343 568 2343 552 2351 550 2353 330 2353 326 2351 305 2343 303 2343 301 2343 223 2349 223 2381"/></Shape>
+	    <String CONTENT="d’haver sofert intensíssim procés inflamatori a la regió tifloapendicular;"
+                    HPOS="222"
+                    VPOS="2343"
+                    WIDTH="1464"
+                    HEIGHT="58"
+                    WC="0.989883308286791"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_48e3aa34"
+                    TAGREFS="LT4150"
+                    BASELINE="223 2434 1688 2439" 
+                    HPOS="223"
+                    VPOS="2402"
+                    WIDTH="1465"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="223 2434 223 2459 1686 2459 1688 2439 1686 2407 223 2402 223 2434"/></Shape>
+	    <String CONTENT="apèndix desintegrat i fragmentat pel dit procés, formant una massa única"
+                    HPOS="223"
+                    VPOS="2402"
+                    WIDTH="1465"
+                    HEIGHT="57"
+                    WC="0.972692082057128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b6edc09"
+                    TAGREFS="LT4150"
+                    BASELINE="223 2489 1686 2492" 
+                    HPOS="223"
+                    VPOS="2449"
+                    WIDTH="1463"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="223 2489 223 2510 1685 2509 1686 2492 1685 2462 1602 2462 1602 2460 1580 2451 1579 2451 1529 2451 1527 2451 1525 2451 1524 2451 1509 2460 1507 2460 1454 2451 1452 2451 1363 2460 1350 2460 1331 2460 1205 2451 1204 2451 1147 2459 1132 2460 1116 2459 1064 2452 1063 2452 933 2457 898 2459 897 2457 882 2449 880 2449 879 2449 877 2449 787 2457 764 2459 753 2457 713 2449 711 2449 640 2457 615 2459 592 2457 535 2449 534 2449 223 2454 223 2489"/></Shape>
+	    <String CONTENT="amb el cec difícil de diferenciar. Examen peça: apèndix parcial, amb signes"
+                    HPOS="223"
+                    VPOS="2449"
+                    WIDTH="1463"
+                    HEIGHT="61"
+                    WC="0.965314831388624"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aef8897d"
+                    TAGREFS="LT4150"
+                    BASELINE="223 2545 1685 2545" 
+                    HPOS="223"
+                    VPOS="2505"
+                    WIDTH="1462"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="223 2545 223 2568 243 2577 245 2577 247 2577 248 2577 265 2568 268 2568 499 2568 520 2572 562 2577 563 2577 593 2572 610 2568 626 2572 653 2578 655 2578 656 2578 658 2578 671 2572 680 2568 769 2568 781 2573 796 2578 797 2578 799 2580 1026 2580 1026 2578 1028 2578 1030 2578 1034 2575 1043 2568 1136 2568 1149 2575 1152 2578 1154 2578 1156 2578 1157 2580 1217 2580 1217 2578 1219 2578 1227 2575 1252 2568 1263 2577 1267 2578 1268 2578 1270 2578 1272 2580 1373 2580 1373 2578 1374 2578 1378 2577 1391 2570 1421 2577 1429 2578 1431 2578 1433 2578 1434 2578 1434 2577 1447 2568 1632 2568 1683 2578 1685 2545 1685 2517 1597 2507 1595 2507 1557 2515 1544 2505 1542 2505 1540 2505 1539 2505 1310 2515 1295 2505 1293 2505 1292 2505 1243 2505 1242 2505 1157 2515 1074 2505 1073 2505 1015 2515 968 2505 966 2505 965 2505 963 2505 950 2515 923 2507 922 2507 920 2507 918 2507 884 2515 718 2505 716 2505 625 2515 522 2505 520 2505 519 2505 517 2505 502 2517 409 2517 391 2505 389 2505 388 2505 328 2505 326 2505 223 2515 223 2545"/></Shape>
+	    <String CONTENT="macroscòpics d’haver sofert intensa flogosi. Diagnòstic operatori: intensa"
+                    HPOS="223"
+                    VPOS="2505"
+                    WIDTH="1462"
+                    HEIGHT="75"
+                    WC="0.973489205303945"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cdf54a9d"
+                    TAGREFS="LT4150"
+                    BASELINE="223 2595 454 2598" 
+                    HPOS="222"
+                    VPOS="2558"
+                    WIDTH="232"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="223 2595 222 2615 452 2615 454 2598 451 2558 223 2560 223 2595"/></Shape>
+	    <String CONTENT="apendicitis."
+                    HPOS="222"
+                    VPOS="2558"
+                    WIDTH="232"
+                    HEIGHT="57"
+                    WC="0.999498267968496"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

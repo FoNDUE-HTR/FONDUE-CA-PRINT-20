@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>140747-158979-1-CE.pdf_page_3.png</fileName>
+      <fileIdentifier>pdf//140747-158979-1-CE.pdf</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10616" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT10596" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10595" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10594" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10591" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10590" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10593" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10592" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT4166" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT4151" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4150" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2006"
+          HEIGHT="2985"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2006"
+                  HEIGHT="2985">
+        
+        <TextBlock HPOS="1626"
+                   VPOS="236"
+                   WIDTH="80"
+                   HEIGHT="52"
+                   ID="eSc_textblock_b268e011"
+                   TAGREFS="BT10592">
+          <Shape><Polygon POINTS="1626 236 1626 288 1706 288 1706 236"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e4ca717d"
+                    TAGREFS="LT4150"
+                    BASELINE="1640 265 1694 262" 
+                    HPOS="1639"
+                    VPOS="232"
+                    WIDTH="55"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1689 257 1670 235 1654 232 1639 257 1640 265 1640 283 1692 285 1694 262 1690 257 1689 257"/></Shape>
+	    <String CONTENT="23"
+                    HPOS="1639"
+                    VPOS="232"
+                    WIDTH="55"
+                    HEIGHT="53"
+                    WC="0.992216497659683"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="208"
+                   VPOS="246"
+                   WIDTH="450"
+                   HEIGHT="53"
+                   ID="eSc_textblock_53fa4dc1"
+                   TAGREFS="BT10593">
+          <Shape><Polygon POINTS="208 246 208 299 658 299 658 246"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cc3aec2c"
+                    TAGREFS="LT4151"
+                    BASELINE="227 278 648 273" 
+                    HPOS="225"
+                    VPOS="245"
+                    WIDTH="423"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="623 245 238 245 225 257 227 278 227 303 366 293 647 300 648 273 645 263 640 250"/></Shape>
+	    <String CONTENT="MEDICINA FÍSICA"
+                    HPOS="225"
+                    VPOS="245"
+                    WIDTH="423"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="203"
+                   VPOS="331"
+                   WIDTH="1538"
+                   HEIGHT="2301"
+                   ID="eSc_textblock_b8e38ca8"
+                   TAGREFS="BT10591">
+          <Shape><Polygon POINTS="203 331 203 2632 1741 2632 1741 331"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8c48303b"
+                    TAGREFS="LT4150"
+                    BASELINE="280 381 1689 368" 
+                    HPOS="278"
+                    VPOS="333"
+                    WIDTH="1411"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="280 381 280 396 1687 388 1689 368 1684 333 278 339 280 381"/></Shape>
+	    <String CONTENT="La meva tècnica personol és la següent: dono la meitat del menjar"
+                    HPOS="278"
+                    VPOS="333"
+                    WIDTH="1411"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_107dba53"
+                    TAGREFS="LT4150"
+                    BASELINE="228 436 1694 422" 
+                    HPOS="227"
+                    VPOS="389"
+                    WIDTH="1467"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="228 436 228 454 1692 444 1694 422 1689 389 227 401 228 436"/></Shape>
+	    <String CONTENT="opac catorze hores abans de l’examen fent prendre la meitat de la barreja"
+                    HPOS="227"
+                    VPOS="389"
+                    WIDTH="1467"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bfb7938d"
+                    TAGREFS="LT4150"
+                    BASELINE="228 490 1694 477" 
+                    HPOS="227"
+                    VPOS="444"
+                    WIDTH="1467"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="228 490 228 507 1692 497 1694 477 1690 446 778 444 776 444 569 454 287 449 285 449 227 457 228 490"/></Shape>
+	    <String CONTENT="dues hores després a fi d’obtenir un segment més gros de l’intestí omplert."
+                    HPOS="227"
+                    VPOS="444"
+                    WIDTH="1467"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cca51dd3"
+                    TAGREFS="LT4150"
+                    BASELINE="228 542 1695 530" 
+                    HPOS="227"
+                    VPOS="490"
+                    WIDTH="1468"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="228 542 228 560 1694 555 1695 530 1692 497 1485 490 1483 490 1421 497 1390 500 1375 497 1355 492 1353 492 1352 492 1259 497 1186 502 1131 499 1071 494 1070 494 1030 499 987 504 939 499 902 495 900 495 874 499 834 505 824 499 822 497 821 497 819 497 731 497 730 497 705 500 640 507 545 500 517 499 516 499 499 500 433 509 227 502 228 542"/></Shape>
+	    <String CONTENT="Utilitzo, i en això sí que vull fer-hi atenció, una barrejo de sulfat de bari"
+                    HPOS="227"
+                    VPOS="490"
+                    WIDTH="1468"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41423548"
+                    TAGREFS="LT4150"
+                    BASELINE="232 597 1697 585" 
+                    HPOS="230"
+                    VPOS="548"
+                    WIDTH="1467"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="232 597 232 623 297 615 414 621 416 621 418 621 444 611 1697 610 1697 585 1692 548 1217 558 1173 550 1158 548 1156 548 1134 550 1065 560 1017 552 1013 552 1012 552 1007 552 917 560 904 552 902 552 900 552 899 552 894 552 851 562 617 553 589 553 587 553 585 553 582 553 550 563 502 555 501 555 413 565 376 555 374 555 373 555 371 555 230 555 232 597"/></Shape>
+	    <String CONTENT="(els 150 grams clàssics) a la qual s’hi ha addicionat una petita quantitat"
+                    HPOS="230"
+                    VPOS="548"
+                    WIDTH="1467"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c494733"
+                    TAGREFS="LT4150"
+                    BASELINE="230 655 1694 640" 
+                    HPOS="228"
+                    VPOS="606"
+                    WIDTH="1466"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="230 655 232 679 265 671 501 676 552 676 554 676 555 676 560 674 587 668 857 669 1010 671 1012 671 1692 656 1694 640 1690 608 879 606 877 606 808 616 804 616 796 616 567 610 565 610 564 610 537 620 535 620 525 620 403 611 401 611 245 613 243 613 228 620 230 655"/></Shape>
+	    <String CONTENT="de pols d’agar-agar exemptes de propietats químiques i que, segons comu¬"
+                    HPOS="228"
+                    VPOS="606"
+                    WIDTH="1466"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_071fe1ad"
+                    TAGREFS="LT4150"
+                    BASELINE="228 708 1695 694" 
+                    HPOS="227"
+                    VPOS="655"
+                    WIDTH="1468"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="228 708 228 726 1694 714 1695 694 1692 664 1511 655 1509 655 1277 666 1144 658 1143 658 1141 658 1101 668 962 660 960 660 959 660 934 669 778 661 776 661 774 661 773 661 756 671 597 663 595 663 544 673 524 664 522 664 411 664 409 664 408 664 388 674 270 666 268 666 267 666 227 676 228 708"/></Shape>
+	    <String CONTENT="nicació dels Drs. Delherm i Thoyer-Rozt a la Societat de Radiologia de"
+                    HPOS="227"
+                    VPOS="655"
+                    WIDTH="1468"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b8a425d"
+                    TAGREFS="LT4150"
+                    BASELINE="230 762 1697 749" 
+                    HPOS="228"
+                    VPOS="709"
+                    WIDTH="1469"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="230 762 230 779 1695 772 1697 749 1692 709 1499 718 1368 711 1345 711 1343 711 1342 711 1340 711 1324 719 1188 713 1164 713 1163 713 1161 713 1159 713 1143 723 228 723 230 762"/></Shape>
+	    <String CONTENT="França, evita l’inconvenient de la dessecació del bol fecal durant el trajecte"
+                    HPOS="228"
+                    VPOS="709"
+                    WIDTH="1469"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_27245897"
+                    TAGREFS="LT4150"
+                    BASELINE="232 815 1699 804" 
+                    HPOS="230"
+                    VPOS="766"
+                    WIDTH="1469"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="232 815 232 834 1697 829 1699 804 1695 776 1533 766 1531 766 1489 776 1485 776 1481 776 1441 767 1440 767 1438 767 1416 776 1415 776 1387 776 1156 769 1154 769 1153 769 1138 776 1134 777 1073 776 861 771 859 771 857 771 842 777 831 782 741 782 735 777 728 772 726 772 725 772 723 772 721 772 710 777 701 781 685 777 660 772 658 772 608 777 557 782 230 779 232 815"/></Shape>
+	    <String CONTENT="intestinal, cosa que havem pogut comprovar repetides vegades; nosaltres"
+                    HPOS="230"
+                    VPOS="766"
+                    WIDTH="1469"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1965f7a1"
+                    TAGREFS="LT4150"
+                    BASELINE="232 870 1699 857" 
+                    HPOS="230"
+                    VPOS="820"
+                    WIDTH="1469"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="232 870 232 893 1697 882 1699 857 1694 820 962 834 904 832 789 825 788 825 740 834 726 835 703 834 605 827 603 827 602 827 567 837 560 837 544 837 433 829 431 829 429 829 403 839 401 839 396 839 330 830 328 830 230 840 232 870"/></Shape>
+	    <String CONTENT="encora atribuïm a l’acció de l’agor-agor que com sabem és imbibir-se dels"
+                    HPOS="230"
+                    VPOS="820"
+                    WIDTH="1469"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e9addc5"
+                    TAGREFS="LT4150"
+                    BASELINE="235 923 1699 913" 
+                    HPOS="233"
+                    VPOS="875"
+                    WIDTH="1466"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="235 923 237 950 268 941 446 948 476 948 477 948 479 948 484 946 512 940 665 945 720 946 721 946 741 945 786 938 884 943 947 945 949 945 950 945 960 941 973 936 1020 941 1051 943 1053 943 1697 931 1699 913 1695 885 1642 875 1640 875 1576 883 1556 875 1554 875 1553 875 1456 885 1450 885 1443 885 1340 877 1338 877 1179 887 1156 887 1095 887 735 880 733 880 233 888 235 923"/></Shape>
+	    <String CONTENT="líquids intestinals augmentat de volum, que un cop insinuat a la llum de"
+                    HPOS="233"
+                    VPOS="875"
+                    WIDTH="1466"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c2b496f"
+                    TAGREFS="LT4150"
+                    BASELINE="232 981 1700 970" 
+                    HPOS="230"
+                    VPOS="930"
+                    WIDTH="1470"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="232 981 232 1001 1699 988 1700 970 1697 933 1489 930 1488 930 1486 930 1478 933 1461 943 1400 943 1388 935 1385 931 1383 931 1382 931 1319 931 1317 931 1315 931 1305 935 1275 945 1191 945 1143 935 1124 933 1123 933 1108 936 1066 945 924 936 907 936 905 936 899 936 839 946 816 938 814 938 813 938 740 946 645 938 635 938 633 938 632 938 630 938 610 948 501 940 499 940 497 940 496 940 438 950 389 940 386 940 384 940 376 940 283 950 230 941 232 981"/></Shape>
+	    <String CONTENT="l’apèndix, pel seu augment de volum eixampli aquesta llum apendicular,"
+                    HPOS="230"
+                    VPOS="930"
+                    WIDTH="1470"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_514959f7"
+                    TAGREFS="LT4150"
+                    BASELINE="233 1033 1700 1023" 
+                    HPOS="232"
+                    VPOS="991"
+                    WIDTH="1468"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="233 1033 233 1051 1699 1043 1700 1023 1695 991 232 996 233 1033"/></Shape>
+	    <String CONTENT="fent possible l’entrada de nova quantitat de bari i obtenint per tant una"
+                    HPOS="232"
+                    VPOS="991"
+                    WIDTH="1468"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46229b06"
+                    TAGREFS="LT4150"
+                    BASELINE="235 1087 1700 1077" 
+                    HPOS="233"
+                    VPOS="1038"
+                    WIDTH="1467"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="235 1087 235 1111 1699 1096 1700 1077 1699 1049 1662 1038 1660 1038 1659 1038 1129 1051 1008 1041 1007 1041 950 1053 925 1043 924 1043 922 1043 832 1053 817 1043 816 1043 814 1043 723 1043 721 1043 720 1043 680 1054 658 1046 657 1046 655 1046 653 1046 633 1054 570 1046 569 1046 441 1054 414 1046 413 1046 411 1046 409 1046 383 1056 355 1046 353 1046 351 1046 287 1056 258 1046 257 1046 255 1046 253 1046 233 1056 235 1087"/></Shape>
+	    <String CONTENT="visualització amb més facilitat. Nosaltres atribuïm la gran quantitat de"
+                    HPOS="233"
+                    VPOS="1038"
+                    WIDTH="1467"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66892695"
+                    TAGREFS="LT4150"
+                    BASELINE="237 1145 1702 1132" 
+                    HPOS="235"
+                    VPOS="1094"
+                    WIDTH="1467"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="237 1145 237 1167 1700 1155 1702 1132 1697 1094 967 1107 857 1101 842 1101 841 1101 834 1101 783 1109 235 1107 237 1145"/></Shape>
+	    <String CONTENT="visualitzacions que obtenim il primer o segon examen (que utilitzant la"
+                    HPOS="235"
+                    VPOS="1094"
+                    WIDTH="1467"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_632fe6c9"
+                    TAGREFS="LT4150"
+                    BASELINE="235 1198 1491 1189" 
+                    HPOS="233"
+                    VPOS="1149"
+                    WIDTH="1258"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="235 1198 235 1225 316 1217 683 1220 856 1220 857 1220 859 1220 867 1217 881 1212 947 1215 1002 1218 1003 1218 1489 1207 1491 1189 1488 1157 1315 1149 1314 1149 1312 1149 1282 1157 1277 1159 233 1159 235 1198"/></Shape>
+	    <String CONTENT="borreja ordinària rares vegades s&#x27;obté), a l’ús d’questa mescla."
+                    HPOS="233"
+                    VPOS="1149"
+                    WIDTH="1258"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_763e2218"
+                    TAGREFS="LT4150"
+                    BASELINE="318 1261 1702 1250" 
+                    HPOS="316"
+                    VPOS="1210"
+                    WIDTH="1386"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="318 1261 318 1276 1700 1270 1702 1250 1699 1220 1596 1210 1594 1210 1519 1218 1486 1210 1485 1210 1483 1210 1481 1210 1461 1218 1451 1210 1450 1210 1448 1210 1446 1210 1388 1218 1329 1210 1327 1210 1325 1210 1292 1220 1282 1222 1279 1220 1267 1212 1265 1212 1264 1212 1262 1212 1227 1220 1214 1222 1189 1220 1134 1213 1133 1213 1131 1213 1114 1220 1103 1223 1028 1220 929 1213 927 1213 925 1213 905 1220 884 1225 827 1220 799 1217 798 1217 783 1220 754 1225 730 1220 713 1215 711 1215 710 1215 708 1215 706 1215 706 1217 703 1220 693 1227 589 1220 567 1218 565 1218 564 1218 559 1220 532 1227 517 1220 516 1218 514 1218 512 1218 492 1220 370 1228 356 1220 356 1218 355 1218 353 1218 351 1218 316 1218 318 1261"/></Shape>
+	    <String CONTENT="Si no obtenim la visulització apendiculor clara al primer examen,"
+                    HPOS="316"
+                    VPOS="1210"
+                    WIDTH="1386"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f32b9e11"
+                    TAGREFS="LT4150"
+                    BASELINE="237 1318 1702 1303" 
+                    HPOS="235"
+                    VPOS="1270"
+                    WIDTH="1467"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="237 1318 237 1336 1700 1326 1702 1303 1697 1270 235 1281 237 1318"/></Shape>
+	    <String CONTENT="i diem clara perquè cal no confondre l’apèndix amb traces de bari al"
+                    HPOS="235"
+                    VPOS="1270"
+                    WIDTH="1467"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33566199"
+                    TAGREFS="LT4150"
+                    BASELINE="235 1373 1704 1358" 
+                    HPOS="233"
+                    VPOS="1318"
+                    WIDTH="1471"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="235 1373 235 1393 1377 1386 1383 1386 1440 1378 1700 1383 1704 1358 1697 1318 1660 1328 1602 1320 1601 1320 1533 1331 1207 1333 1050 1325 1048 1325 1046 1325 1000 1334 929 1326 927 1326 877 1336 798 1328 796 1328 718 1338 642 1329 640 1329 497 1331 496 1331 494 1331 481 1339 233 1333 235 1373"/></Shape>
+	    <String CONTENT="recte o al costat del cec de forma apendicoide, en practiquem un altre al"
+                    HPOS="233"
+                    VPOS="1318"
+                    WIDTH="1471"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63edb0b9"
+                    TAGREFS="LT4150"
+                    BASELINE="237 1424 1702 1414" 
+                    HPOS="235"
+                    VPOS="1374"
+                    WIDTH="1467"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="237 1424 237 1449 472 1447 474 1447 494 1439 1700 1439 1702 1414 1697 1374 1607 1383 1561 1374 1556 1374 1554 1374 1553 1374 1551 1374 1519 1383 1319 1376 1294 1376 1292 1376 1284 1376 1209 1386 1050 1378 1030 1378 1028 1378 1022 1378 965 1388 809 1379 791 1379 789 1379 779 1379 700 1389 235 1384 237 1424"/></Shape>
+	    <String CONTENT="din següent, fent ingerir per segona vegada al malalt el baragar; faig"
+                    HPOS="235"
+                    VPOS="1374"
+                    WIDTH="1467"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4dfc7144"
+                    TAGREFS="LT4150"
+                    BASELINE="238 1482 1705 1469" 
+                    HPOS="237"
+                    VPOS="1437"
+                    WIDTH="1468"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="238 1482 238 1500 1704 1490 1705 1469 1702 1439 808 1437 806 1437 804 1437 773 1446 627 1439 625 1439 522 1447 421 1441 419 1441 237 1451 238 1482"/></Shape>
+	    <String CONTENT="prendre la meitat de les pols vint-i-qutre hores abans d’aquest segon"
+                    HPOS="237"
+                    VPOS="1437"
+                    WIDTH="1468"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06a0a092"
+                    TAGREFS="LT4150"
+                    BASELINE="238 1533 1704 1522" 
+                    HPOS="237"
+                    VPOS="1482"
+                    WIDTH="1467"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="238 1533 238 1552 1702 1540 1704 1522 1700 1492 1607 1482 1606 1482 1489 1492 1322 1484 1320 1484 1319 1484 1279 1494 1073 1485 1071 1485 632 1499 383 1492 381 1492 379 1492 378 1492 365 1502 237 1502 238 1533"/></Shape>
+	    <String CONTENT="examen, i després el malalt ingereix dos dits d’aigua de Rubinat i dotze"
+                    HPOS="237"
+                    VPOS="1482"
+                    WIDTH="1467"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e557d36c"
+                    TAGREFS="LT4150"
+                    BASELINE="238 1590 1705 1577" 
+                    HPOS="237"
+                    VPOS="1538"
+                    WIDTH="1468"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="238 1590 238 1606 1704 1595 1705 1577 1700 1538 1518 1548 1377 1540 1355 1540 1353 1540 1352 1540 1350 1540 1329 1550 1244 1542 1236 1542 1234 1542 1231 1542 1196 1550 1181 1542 1179 1542 1178 1542 1176 1542 1174 1542 1173 1542 1156 1552 968 1553 922 1545 920 1545 919 1545 912 1545 759 1555 703 1547 698 1547 696 1547 686 1547 569 1557 534 1548 532 1548 530 1548 527 1548 484 1557 391 1550 389 1550 388 1550 386 1550 384 1550 371 1558 237 1552 238 1590"/></Shape>
+	    <String CONTENT="hores abans de la radioscòpia l’altra meitat de les pols, sense purgant"
+                    HPOS="237"
+                    VPOS="1538"
+                    WIDTH="1468"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed39d6d7"
+                    TAGREFS="LT4150"
+                    BASELINE="237 1643 1705 1631" 
+                    HPOS="235"
+                    VPOS="1601"
+                    WIDTH="1470"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="237 1643 237 1669 403 1659 441 1668 444 1668 446 1668 467 1668 686 1656 728 1664 733 1664 735 1664 741 1664 793 1656 955 1661 1017 1663 1018 1663 1705 1651 1705 1631 1700 1601 235 1606 237 1643"/></Shape>
+	    <String CONTENT="aquesta vegada. Si en aquest segon examen no es visualitza l’apèndix, ja"
+                    HPOS="235"
+                    VPOS="1601"
+                    WIDTH="1470"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82500030"
+                    TAGREFS="LT4150"
+                    BASELINE="238 1696 1704 1686" 
+                    HPOS="237"
+                    VPOS="1648"
+                    WIDTH="1467"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="238 1696 238 1714 477 1723 479 1723 730 1713 794 1711 827 1713 932 1719 934 1719 967 1713 978 1709 990 1711 1013 1718 1015 1718 1017 1718 1702 1708 1704 1686 1702 1659 1669 1648 1667 1648 1665 1648 1435 1650 1375 1659 1217 1650 1216 1650 1153 1661 1071 1651 1070 1651 1010 1661 972 1651 970 1651 968 1651 914 1663 874 1656 872 1656 723 1666 622 1666 603 1655 602 1655 600 1655 598 1655 597 1655 595 1655 580 1664 504 1656 502 1656 381 1666 260 1656 258 1656 257 1656 237 1666 238 1696"/></Shape>
+	    <String CONTENT="no insistim més, i donem per acabada l&#x27;exploració; i la donem per acabada,"
+                    HPOS="237"
+                    VPOS="1648"
+                    WIDTH="1467"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13eb14a9"
+                    TAGREFS="LT4150"
+                    BASELINE="240 1752 1704 1741" 
+                    HPOS="238"
+                    VPOS="1709"
+                    WIDTH="1466"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="240 1752 240 1777 451 1767 1702 1767 1704 1741 1700 1709 671 1709 670 1709 418 1719 257 1713 255 1713 253 1713 238 1719 240 1752"/></Shape>
+	    <String CONTENT="perquè no volem continuar insistint en donar purgants solins a un pres¬"
+                    HPOS="238"
+                    VPOS="1709"
+                    WIDTH="1466"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fbefb274"
+                    TAGREFS="LT4150"
+                    BASELINE="240 1809 1707 1795" 
+                    HPOS="238"
+                    VPOS="1762"
+                    WIDTH="1469"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="240 1809 240 1829 1705 1817 1707 1795 1702 1762 238 1769 240 1809"/></Shape>
+	    <String CONTENT="sumpte apendicític i exposar-lo als riscs d’una purga continuada. Algun"
+                    HPOS="238"
+                    VPOS="1762"
+                    WIDTH="1469"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5dc5f2a"
+                    TAGREFS="LT4150"
+                    BASELINE="240 1863 1707 1850" 
+                    HPOS="238"
+                    VPOS="1810"
+                    WIDTH="1469"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="240 1863 240 1880 1705 1868 1707 1850 1704 1819 1574 1810 1572 1810 1523 1819 1508 1820 1468 1819 1345 1812 1343 1812 1342 1812 1340 1812 1329 1819 1322 1824 238 1824 240 1863"/></Shape>
+	    <String CONTENT="malalt ja es queixa en l’examen seguit de l’aigua magnèsica que se&#x27;ls ha"
+                    HPOS="238"
+                    VPOS="1810"
+                    WIDTH="1469"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e8dcd55"
+                    TAGREFS="LT4150"
+                    BASELINE="240 1917 1707 1905" 
+                    HPOS="238"
+                    VPOS="1867"
+                    WIDTH="1469"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="240 1917 240 1931 1707 1926 1707 1905 1704 1875 1496 1867 1494 1867 1493 1867 1470 1875 1468 1875 1091 1870 1090 1870 1012 1878 1008 1878 1000 1878 675 1873 673 1873 671 1873 650 1882 647 1882 625 1882 459 1875 457 1875 238 1883 240 1917"/></Shape>
+	    <String CONTENT="exacerbat els dolors que tenia o que se l’hi hon presentat després de temps"
+                    HPOS="238"
+                    VPOS="1867"
+                    WIDTH="1469"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d21e5005"
+                    TAGREFS="LT4150"
+                    BASELINE="242 1971 1705 1956" 
+                    HPOS="240"
+                    VPOS="1920"
+                    WIDTH="1465"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="242 1971 245 2001 263 1990 504 1990 547 1998 554 1998 555 1998 557 1998 559 1998 559 1996 572 1990 622 1996 627 1996 628 1996 638 1996 743 1986 811 1994 824 1994 826 1994 837 1993 894 1985 980 1991 1005 1993 1007 1993 1022 1991 1068 1983 1090 1990 1095 1991 1096 1991 1098 1991 1158 1990 1307 1983 1322 1986 1332 1990 1334 1990 1335 1990 1350 1986 1380 1980 1398 1986 1405 1988 1407 1988 1408 1988 1446 1986 1539 1978 1551 1985 1553 1986 1554 1986 1556 1986 1558 1986 1704 1981 1705 1956 1702 1928 1612 1920 1611 1920 1415 1928 1375 1930 1350 1928 1254 1923 1252 1923 1204 1930 1186 1931 1148 1930 1053 1925 1051 1925 945 1931 869 1935 240 1935 242 1971"/></Shape>
+	    <String CONTENT="de no haver-ne tingut cap. Si això passa de primer antuvi, ¿què pot passar"
+                    HPOS="240"
+                    VPOS="1920"
+                    WIDTH="1465"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0473b743"
+                    TAGREFS="LT4150"
+                    BASELINE="243 2024 703 2019" 
+                    HPOS="242"
+                    VPOS="1980"
+                    WIDTH="461"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="243 2024 243 2043 701 2043 703 2019 700 1991 564 1980 562 1980 560 1980 539 1991 466 1991 456 1983 456 1981 454 1981 452 1981 398 1981 396 1981 394 1981 393 1981 393 1983 391 1983 383 1993 293 1983 292 1983 242 1994 243 2024"/></Shape>
+	    <String CONTENT="si el radiòleg insisteix?"
+                    HPOS="242"
+                    VPOS="1980"
+                    WIDTH="461"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98dea63c"
+                    TAGREFS="LT4150"
+                    BASELINE="321 2087 1707 2074" 
+                    HPOS="320"
+                    VPOS="2034"
+                    WIDTH="1387"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="321 2087 321 2106 1705 2092 1707 2074 1705 2046 1674 2034 1672 2034 1670 2034 1624 2044 1453 2038 1451 2038 1450 2038 1448 2038 1435 2046 1360 2039 1358 2039 1186 2049 1184 2049 1183 2049 1013 2039 1012 2039 886 2051 730 2043 728 2043 726 2043 725 2043 713 2051 524 2044 522 2044 404 2054 345 2046 343 2046 341 2046 320 2054 321 2087"/></Shape>
+	    <String CONTENT="Comprendríen, a més, la insistència en continuar els exàmens, si la"
+                    HPOS="320"
+                    VPOS="2034"
+                    WIDTH="1387"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87e50bbb"
+                    TAGREFS="LT4150"
+                    BASELINE="247 2142 1707 2130" 
+                    HPOS="245"
+                    VPOS="2092"
+                    WIDTH="1462"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="247 2142 247 2165 1705 2150 1707 2130 1705 2102 1669 2092 1667 2092 1503 2092 1501 2092 1499 2092 1475 2102 1290 2094 1289 2094 1287 2094 1267 2104 1088 2096 1086 2096 1085 2096 1053 2106 935 2097 934 2097 839 2107 663 2099 662 2099 603 2109 456 2101 454 2101 452 2101 451 2101 438 2111 341 2102 340 2102 245 2112 247 2142"/></Shape>
+	    <String CONTENT="visualització apendiculer fos un signe cabdal de diagnòstic radiològic,"
+                    HPOS="245"
+                    VPOS="2092"
+                    WIDTH="1462"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8e86ff8"
+                    TAGREFS="LT4150"
+                    BASELINE="245 2195 1207 2190" 
+                    HPOS="243"
+                    VPOS="2155"
+                    WIDTH="964"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="245 2195 245 2220 1206 2213 1207 2190 1204 2164 920 2155 919 2155 859 2164 320 2159 318 2159 243 2167 245 2195"/></Shape>
+	    <String CONTENT="però veiem el concepte que en tenen els autors."
+                    HPOS="243"
+                    VPOS="2155"
+                    WIDTH="964"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84407423"
+                    TAGREFS="LT4150"
+                    BASELINE="328 2261 1708 2247" 
+                    HPOS="326"
+                    VPOS="2205"
+                    WIDTH="1382"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="328 2261 328 2278 1707 2270 1708 2247 1705 2213 1562 2205 1561 2205 1559 2205 1558 2205 1546 2213 1544 2213 1533 2213 1408 2207 1407 2207 1285 2215 1246 2217 1214 2215 1146 2210 1144 2210 1027 2215 935 2220 326 2220 328 2261"/></Shape>
+	    <String CONTENT="Alwrens: ‟He obtingut el 23 per 100 d’apèndixs visibles en individus"
+                    HPOS="326"
+                    VPOS="2205"
+                    WIDTH="1382"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad34e9da"
+                    TAGREFS="LT4150"
+                    BASELINE="245 2315 1710 2301" 
+                    HPOS="243"
+                    VPOS="2263"
+                    WIDTH="1467"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="245 2315 245 2341 496 2331 600 2338 602 2338 603 2338 605 2338 618 2329 774 2336 776 2336 778 2336 796 2328 1707 2328 1710 2301 1705 2263 243 2280 245 2315"/></Shape>
+	    <String CONTENT="sans, i 62 per 100 en malalts d’apendicitis crònica. La visualitazció seria"
+                    HPOS="243"
+                    VPOS="2263"
+                    WIDTH="1467"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cbe3f957"
+                    TAGREFS="LT4150"
+                    BASELINE="247 2366 1063 2361" 
+                    HPOS="245"
+                    VPOS="2323"
+                    WIDTH="818"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="247 2366 247 2384 330 2392 331 2392 370 2384 379 2383 389 2384 439 2392 441 2392 443 2392 464 2384 577 2391 579 2391 655 2381 667 2381 680 2381 788 2391 789 2391 909 2379 919 2379 927 2379 1008 2389 1010 2389 1061 2378 1063 2361 1056 2323 1027 2333 955 2324 935 2323 934 2323 919 2324 882 2333 871 2326 866 2323 864 2323 862 2323 789 2323 788 2323 753 2328 716 2334 680 2329 632 2324 630 2324 595 2331 582 2334 572 2333 544 2324 542 2324 540 2324 539 2324 520 2333 514 2336 487 2334 406 2326 404 2326 403 2326 401 2326 388 2336 386 2338 345 2338 320 2338 282 2326 280 2326 278 2326 277 2326 245 2338 247 2366"/></Shape>
+	    <String CONTENT="més aviat un signe d’apendicitis crònica.”"
+                    HPOS="245"
+                    VPOS="2323"
+                    WIDTH="818"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e3f5cde"
+                    TAGREFS="LT4150"
+                    BASELINE="328 2432 1710 2417" 
+                    HPOS="326"
+                    VPOS="2384"
+                    WIDTH="1384"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="328 2432 328 2459 368 2451 816 2451 1086 2451 1088 2451 1199 2444 1262 2441 1300 2442 1400 2447 1402 2447 1403 2447 1423 2441 1426 2439 1445 2439 1541 2446 1543 2446 1710 2434 1710 2417 1705 2384 326 2389 328 2432"/></Shape>
+	    <String CONTENT="Arnone que: ‟És molt més difícil d’assolir la visibilitat d’un apèndix sa"
+                    HPOS="326"
+                    VPOS="2384"
+                    WIDTH="1384"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81d4b080"
+                    TAGREFS="LT4150"
+                    BASELINE="247 2487 643 2480" 
+                    HPOS="245"
+                    VPOS="2441"
+                    WIDTH="398"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="247 2487 247 2502 643 2502 643 2480 638 2441 584 2452 554 2444 547 2442 545 2442 544 2442 542 2442 532 2446 499 2454 466 2447 451 2446 449 2446 447 2446 446 2446 446 2447 443 2449 436 2457 401 2457 383 2452 358 2446 356 2446 355 2446 353 2446 351 2446 351 2447 343 2454 338 2457 325 2454 290 2447 288 2447 245 2457 247 2487"/></Shape>
+	    <String CONTENT="que d’un de malalt.”"
+                    HPOS="245"
+                    VPOS="2441"
+                    WIDTH="398"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d2691b3"
+                    TAGREFS="LT4150"
+                    BASELINE="328 2540 1712 2528" 
+                    HPOS="326"
+                    VPOS="2485"
+                    WIDTH="1386"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="328 2540 328 2562 1712 2545 1712 2528 1708 2487 1516 2485 1514 2485 1475 2490 1416 2497 1365 2492 1317 2487 1315 2487 1285 2494 1256 2500 1116 2500 1098 2495 1081 2492 1080 2492 1078 2492 1017 2497 980 2500 972 2499 952 2490 950 2490 949 2490 947 2490 924 2499 917 2500 909 2499 872 2492 871 2492 869 2492 854 2500 849 2502 837 2500 789 2492 788 2492 730 2502 716 2505 622 2505 620 2504 603 2495 602 2495 600 2495 482 2505 479 2505 353 2495 351 2495 350 2495 326 2505 328 2540"/></Shape>
+	    <String CONTENT="Czepa: ‟Si a les dues temptatives amb una tècnica correcta l’apèndix"
+                    HPOS="326"
+                    VPOS="2485"
+                    WIDTH="1386"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b9803cd"
+                    TAGREFS="LT4150"
+                    BASELINE="247 2593 1710 2582" 
+                    HPOS="245"
+                    VPOS="2550"
+                    WIDTH="1465"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="247 2593 247 2616 653 2628 655 2628 657 2628 658 2628 673 2618 681 2615 761 2615 799 2618 871 2626 872 2626 1023 2625 1053 2620 1088 2611 1111 2620 1118 2621 1119 2621 1121 2621 1141 2620 1189 2613 1239 2620 1270 2623 1272 2623 1274 2623 1282 2620 1302 2610 1365 2618 1367 2618 1466 2608 1493 2620 1496 2621 1498 2621 1499 2621 1501 2621 1506 2620 1553 2606 1644 2606 1707 2620 1710 2582 1705 2550 245 2560 247 2593"/></Shape>
+	    <String CONTENT="no s&#x27;omple, se&#x27;l pot considerar amb certesa com impermeable, i per tant és"
+                    HPOS="245"
+                    VPOS="2550"
+                    WIDTH="1465"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
