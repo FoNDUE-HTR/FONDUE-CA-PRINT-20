@@ -11,101 +11,83 @@ automatically-aligned: false
 characters:
   members:
   - e
-  - s
   - a
-  - t
-  - u
   - i
+  - s
+  - o
   - r
   - n
-  - o
+  - t
   - l
   - d
   - c
-  - m
   - p
+  - u
+  - m
+  - ̀
+  - g
   - ','
+  - ́
+  - .
+  - b
+  - x
   - v
   - q
-  - .
-  - ́
   - f
-  - g
-  - b
-  - h
-  - "'"
   - ’
-  - I
-  - +
-  - y
+  - h
+  - ':'
+  - A
   - ¬
-  - '1'
-  - ̀
-  - ̂
-  - x
-  - V
+  - D
+  - ;
+  - C
+  - z
+  - '-'
+  - "'"
+  - E
+  - I
+  - R
   - j
   - S
-  - '2'
-  - ':'
-  - E
-  - X
-  - C
   - L
-  - J
-  - '3'
-  - D
-  - '4'
-  - M
-  - ;
-  - ̈
-  - A
-  - '5'
-  - '6'
-  - '8'
-  - '9'
-  - '7'
-  - '0'
-  - P
   - O
-  - ̧
-  - R
-  - '-'
-  - N
+  - '1'
+  - '0'
+  - ̈
+  - '2'
+  - M
   - G
+  - ̧
   - T
-  - '?'
-  - B
-  - œ
-  - H
-  -  
-  - Q
-  - α
+  - y
+  - N
+  - '9'
   - F
-  - z
-  - Z
-  - U
-  - ̓
-  - ο
-  - ν
-  - μ
-  - ω
-  - τ
-  - δ
-  - ε
-  - ρ
-  - φ
   - (
   - )
-  - '{'
-  - k
-  - Ψ
-  - ι
-  - υ
-  - π
-  - λ
+  - ‟
+  - '5'
+  - —
+  - ”
+  - '3'
+  - '8'
+  - U
+  - H
+  - '6'
+  - '4'
+  - ^
+  - P
+  - V
+  - J
+  - B
+  - '7'
+  - '|'
   - Y
-  - K
+  - k
+  - ¿
+  - '?'
+  - w
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-CA-PRINT-20/blob/master/CITATION.cff
 description: Catalan prints of the 20th c.
@@ -133,11 +115,11 @@ title: FFONDUE-CA-PRINT-20
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-CA-PRINT-20
 volume:
-- count: 108705
+- count: 16391
   metric: characters
-- count: 82
+- count: 7
   metric: files
-- count: 2933
+- count: 283
   metric: lines
-- count: 203
+- count: 20
   metric: regions
