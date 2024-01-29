@@ -9,7 +9,7 @@ This repo contains the transcription of 20th c. Catalan prints.
 
 | Author /editor    | Title                                                                | Pages    | Date | Transcription          |
 |-------------------|----------------------------------------------------------------------|----------|------|------------------------|
-| Bremon-Masgrau    | ["L'apendicitis sota el punt de vista rodiològic", _Medicina Física_](https://revistes.iec.cat/index.php/medfis/article/view/140747)  | 10 pages | 1935 | S. Gabay               |
+| Bremon-Masgrau    | ["L'apendicitis sota el punt de vista radiològic", _Medicina Física_](https://revistes.iec.cat/index.php/medfis/article/view/140747)  | 10 pages | 1935 | S. Gabay               |
 
 
 ## How to cite
