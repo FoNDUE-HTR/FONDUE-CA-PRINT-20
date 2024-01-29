@@ -1,20 +1,20 @@
-# FoNDUE - FR - MSS - 18
+# FONDUE-CA-PRINT-20
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-This repo contains the transcription of 18th c. French manuscripts.
+This repo contains the transcription of 20th c. Catalan prins.
 
 ## Content
 
 
-| Town          | Library                     | Shelfmark  | Folios   | Date             | Transcription         |
-|---------------|-----------------------------|------------|----------|------------------|-----------------------|
-| Aschaffenburg | Hofbibliothek Aschaffenburg | 48         | samples  | 1st half 18th c. | P. Nahon and S. Gabay |
+| Author /editor    | Title                                                                | Pages    | Date | Transcription          |
+|-------------------|----------------------------------------------------------------------|----------|------|------------------------|
+| Bremon-Masgrau    | ["L'apendicitis sota el punt de vista rodiològic", _Medicina Física_](https://revistes.iec.cat/index.php/medfis/article/view/140747)  | 10 pages | 1935 | S. Gabay               |
 
 
 ## How to cite
 
-Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18/blob/main/htr-united.yml) file.
+Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-CA-PRINT-20/blob/main/htr-united.yml) file.
 
 ## Licences
 Annotation is CC-BY. Images belong to the digital libraries.
