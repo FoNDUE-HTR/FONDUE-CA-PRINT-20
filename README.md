@@ -1,8 +1,8 @@
-# FONDUE-CA-PRINT-20
+# FONDUE-EN-UN-20-PR
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-This repo contains the transcription of 20th c. Catalan prints.
+This repo contains the transcription of 20th c. UN resolutions
 
 ## Content
 
@@ -14,9 +14,9 @@ This repo contains the transcription of 20th c. Catalan prints.
 
 ## How to cite
 
-Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-CA-PRINT-20/blob/main/htr-united.yml) file.
+Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-UN-PRINT-20/blob/main/htr-united.yml) file.
 
 ## Licences
-Annotation is CC-BY. Images belong to the digital libraries.
+Annotation is ©. Images belong to the digital libraries.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/2.0/88x31.png" /></a><br />
